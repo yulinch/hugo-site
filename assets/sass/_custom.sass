@@ -1,0 +1,89 @@
+body
+  font-size: 1rem
+
+h1, h2, h3, h4, h5
+  margin: 0.25em 0
+  padding: 0.05em
+
+p
+  padding: 0.3em 0
+
+// sidebar
+.sidebar
+  font-size: .8rem
+
+aside li
+  padding: 0.1rem 0
+
+.post_tag
+  padding: 0.2rem 0.4rem
+
+.button
+  &_translucent
+    background-color: transparent
+    border: 1px solid $theme
+  &_tally
+    padding: 0 .5rem
+    background-color: rgba($theme, 0.15)
+
+[data-mode="lit"]
+  .button
+    &_tally
+      color: $theme
+
+.sidebar
+  &_inner
+    &::before
+      background: var(--haze)
+
+.footer_inner
+  grid-template-columns: 1fr
+
+// article
+img
+  margin: 0 auto
+
+  &.img-half
+    width: calc(50% - 3px)
+
+.post_tag, .post_share
+  margin: 0.2rem .1rem
+
+.post_meta
+  margin-bottom: 1rem
+  font-size: 0.9rem
+  span
+    font-size: 0.9rem
+
+.excerpt_thumbnail
+  display: block
+  margin-top: 1rem
+
+.post_date
+  margin: 0 .2rem 0 .1rem
+
+// my shortcodes
+.flex-half
+  display: inline-block
+  width: calc(50% - 3px)
+
+@media screen and (min-width: 557px)
+  .post_meta
+    span.post_time
+      margin-right: 0.2rem
+
+@media screen and (min-width: 667px)
+  .post_meta
+    .button
+      margin: 0 0.2rem
+
+@media screen and (min-width: 769px)
+  .excerpt_footer.partition
+    grid-template-columns: 6fr 3fr
+  .excerpt_thumbnail
+    margin-top: 0
+    overflow: hidden
+
+@media (prefers-color-scheme: dark)
+  hr
+    background: $bg
