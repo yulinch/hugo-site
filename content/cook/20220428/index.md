@@ -4,8 +4,9 @@ date: 2022-04-28T21:09:35+08:00
 draft: false
 categories: "cook"
 tags: ["便當", "lunchbox"]
-featureImage: "images/building.png"
-thumbnail: "20220428_bento_1.jpg"
+# featureImage: "images/building.png"
+thumbnail: "images/cook/2022/20220428.jpg"
+usePageBundles: true
 showReadTime: false
 showRelatedInArticle: true
 ---
