@@ -1,11 +1,9 @@
 baseURL = ''
 languageCode = 'en-us'
 title = '綠色的人'
-theme = 'clarity'
+theme = "hugo-clarity"
 hasCJKLanguage = true
 figurePositionLabel = "Figure"
-
-
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

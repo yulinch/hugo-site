@@ -1,8 +1,5 @@
----
-title: "home index"
-date: 2022-04-20T16:14:15+08:00
-description: "First post on hugo test"
-featured_image: "img/cover.jpeg"
-images: ["/img/plant.jpeg", "/img/cover.jpeg"]
-draft: true
----
++++
+author = "Hugo Authors"
+description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. This overrides any description set in your site configuration.
+keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. These override any keywords set in your site configuration.
++++
