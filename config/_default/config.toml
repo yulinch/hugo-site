@@ -4,6 +4,11 @@ title = '綠色的人'
 theme = "hugo-clarity"
 hasCJKLanguage = true
 figurePositionLabel = "Figure"
+enableRobotsTXT = true
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
 
 [params]
 gtm_id = "GTM-P2XNGTK"

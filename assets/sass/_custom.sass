@@ -4,9 +4,14 @@ body
 h1, h2, h3, h4, h5
   margin: 0.25em 0
   padding: 0.05em
+  font-weight: bold
 
 p
   padding: 0.3em 0
+  font-size: 0.92rem
+
+figcaption
+  font-size: 0.6rem
 
 // sidebar
 .sidebar
@@ -42,6 +47,14 @@ aside li
 // article
 img
   margin: 0 auto
+  & + figcaption
+    margin-bottom: 0.3rem
+    line-height: 1.4
+
+.image-scalable
+  cursor: initial
+  img
+    cursor: pointer
 
   &.img-half
     width: calc(50% - 3px)
@@ -66,6 +79,9 @@ img
 .flex-half
   display: inline-block
   width: calc(50% - 3px)
+  @media screen and (max-width: 556px)
+    display: block
+    width: 100%
 
 @media screen and (min-width: 557px)
   .post_meta
