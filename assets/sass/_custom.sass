@@ -1,3 +1,5 @@
+// This file should only be used to override everything else except sass & css variables.
+
 body
   font-size: 1rem
 
@@ -40,9 +42,10 @@ aside li
   &_inner
     &::before
       background: var(--haze)
-
-.footer_inner
-  grid-template-columns: 1fr
+.footer
+  // border-top: 1px solid var(--text)
+  &_inner
+    grid-template-columns: 1fr
 
 // article
 img
@@ -100,6 +103,9 @@ img
     margin-top: 0
     overflow: hidden
 
-@media (prefers-color-scheme: dark)
+html
+  @mixin darkmode
   hr
-    background: $bg
+    // background: var(--theme)
+    .footer
+      // border-top: 1px solid var(--text)
