@@ -5,10 +5,16 @@ theme = "hugo-clarity"
 hasCJKLanguage = true
 figurePositionLabel = "Figure"
 enableRobotsTXT = true
+disableKinds = ["sitemap", "RSS", "robotsTXT"]
 [sitemap]
 changefreq = "monthly"
 filename = "sitemap.xml"
 priority = 0.5
+
+[Taxonomies]
+# category = "categories"
+# tag = "tags"
+series = "series"
 
 [params]
 gtm_id = "GTM-P2XNGTK"

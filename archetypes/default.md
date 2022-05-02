@@ -5,6 +5,7 @@ date: {{ .Date }}
 draft: true
 category: "blog"
 tags:
+sitemap_ignore: false
 showReadTime: false
 showRelatedInArticle: true
 ---
