@@ -6,7 +6,7 @@ hasCJKLanguage = true
 figurePositionLabel = "Figure"
 
 [params]
-gtm_id = "GTM-TJLGH6K"
+gtm_id = "GTM-P2XNGTK"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
