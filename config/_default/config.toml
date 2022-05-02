@@ -5,7 +5,7 @@ theme = "hugo-clarity"
 hasCJKLanguage = true
 figurePositionLabel = "Figure"
 enableRobotsTXT = true
-disableKinds = ["RSS", "robotsTXT"]
+# disableKinds = ["RSS", "robotsTXT"]
 [sitemap]
 changefreq = "monthly"
 filename = "sitemap.xml"
