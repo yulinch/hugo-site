@@ -5,7 +5,7 @@ theme = "hugo-clarity"
 hasCJKLanguage = true
 figurePositionLabel = "Figure"
 enableRobotsTXT = true
-disableKinds = ["RSS","taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS"]
 [sitemap]
 changefreq = "monthly"
 filename = "sitemap.xml"
@@ -14,7 +14,7 @@ priority = 0.5
 [Taxonomies]
 category = "categories"
 tag = "tags"
-series = "series"
+# series = "series"
 
 [params]
 gtm_id = "GTM-P2XNGTK"

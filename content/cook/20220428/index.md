@@ -1,5 +1,6 @@
 ---
 title: "2022-04-28 便當"
+description: "2022-04-28 照燒鯛魚、沙茶糯米椒、乾煎杏鮑菇、馬鈴薯煎餅"
 date: 2022-04-28T21:09:35+08:00
 draft: false
 categories: "cook"
