@@ -5,15 +5,15 @@ theme = "hugo-clarity"
 hasCJKLanguage = true
 figurePositionLabel = "Figure"
 enableRobotsTXT = true
-# disableKinds = ["RSS", "robotsTXT"]
+disableKinds = ["RSS","taxonomy", "taxonomyTerm"]
 [sitemap]
 changefreq = "monthly"
 filename = "sitemap.xml"
 priority = 0.5
 
 [Taxonomies]
-# category = "categories"
-# tag = "tags"
+category = "categories"
+tag = "tags"
 series = "series"
 
 [params]

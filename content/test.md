@@ -5,6 +5,8 @@ description: "Test post"
 featured_image: "img/cover.jpeg"
 showReadTime: false
 draft: true
+tags:
+sitemap_ignore: true
 ---
 
 [Neat]({{< ref "cook/20220427.md" >}})
