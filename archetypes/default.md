@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 description : ""
 date: {{ .Date }}
 draft: true
-category: "blog"
+categories: "blog"
 tags:
 sitemap_ignore: false
 showReadTime: false
