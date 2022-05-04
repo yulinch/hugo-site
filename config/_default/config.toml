@@ -6,10 +6,10 @@ hasCJKLanguage = true
 figurePositionLabel = "Figure"
 enableRobotsTXT = true
 disableKinds = ["RSS"]
-[sitemap]
-changefreq = "monthly"
-filename = "sitemap.xml"
-priority = 0.5
+# [sitemap]
+# changefreq = "monthly"
+# filename = "sitemap.xml"
+# priority = 0.5
 
 [Taxonomies]
 category = "categories"
