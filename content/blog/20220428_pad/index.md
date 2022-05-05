@@ -4,7 +4,7 @@ description : "使用布衛生棉一年的心得，新手可以怎麼開始。"
 date: 2022-04-29T17:08:21+08:00
 draft: false
 categories: "blog"
-tags: ["環保", "布衛生棉"]
+tags: ["環保", "布衛生棉", "衛生棉"]
 slug: "布衛生棉的使用心得"
 showReadTime: false
 showRelatedInArticle: true

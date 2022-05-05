@@ -1,3 +1,1 @@
-<a href="{{ .Get `href` }}" target="_blank" class="{{ .Get `className` }}"
-  >{{.Get "title"}}</a
->
+<a href="{{ .Params.href }}" target="{{ .Params.target }}">{{ .Inner }}</a>
