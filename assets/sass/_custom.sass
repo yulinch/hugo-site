@@ -7,6 +7,10 @@ h1, h2, h3, h4, h5
   margin: 0.25em 0
   padding: 0.05em
   font-weight: bold
+  &:target
+    scroll-margin-top: calc(48px + 5px)
+  @media screen and (max-width: 770px)
+    scroll-margin-top: 40px
 
 p
   padding: 0.3em 0

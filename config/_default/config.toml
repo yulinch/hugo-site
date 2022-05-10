@@ -7,6 +7,7 @@ hasCJKLanguage = true
 figurePositionLabel = "Figure"
 enableRobotsTXT = true
 disableKinds = ["RSS"]
+showRelatedInArticle = true
 
 [Taxonomies]
 category = "categories"

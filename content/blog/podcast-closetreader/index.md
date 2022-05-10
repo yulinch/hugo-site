@@ -4,6 +4,7 @@ description : "podcast推薦：《衣櫥裡的讀者》知識．文化．音樂�
 date: 2022-05-04T13:00:00+08:00
 draft: false
 categories: "blog"
+series: "podcast"
 tags: ["podcast"]
 thumbnail: "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/df/15/69/df15690a-db7b-998c-e115-92e1b8e70536/mza_8516517630070981285.jpg/626x0w.webp"
 sitemap_ignore: false

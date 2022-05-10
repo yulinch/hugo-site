@@ -1,0 +1,13 @@
+{{ if isset .Params "series" }} {{$related := where .Site.RegularPages
+".Params.series" "eq" .Params.series }}
+<h2 class="post_related">相關文章</h2>
+<ul>
+  {{ range $related }}
+  <li>
+    <a href="{{ .Permalink }}" class="nav-link" title="{{ .Title }}"
+      >{{ .Title }}</a
+    >
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
