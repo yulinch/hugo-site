@@ -16,3 +16,7 @@
   目前為止的人生都花在賺不了錢的小廢事上，所以至今仍然一事無成。（躺）
   \
   說不定會一直這麼沒成就下去吧。
+\
+\
+\
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6740d21-1b94-4000-8d94-c5566fc38736/deploy-status)](https://app.netlify.com/sites/atwo/deploys)
