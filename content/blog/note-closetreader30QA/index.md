@@ -3,7 +3,7 @@ title: "《衣櫥裡的讀者》【30集問答】讀書最重要的，不是建�
 description : "《衣櫥裡的讀者》【30集問答】讀書最重要的，不是建立自己的觀點，而是拆毀自己的觀點"
 summary: "本集內容：回答聽眾提問。與書本感覺有距離，怎麼辦？茫茫書海中，如何選書？如何透過閱讀建立自己的觀點？做節目的心路歷程"
 date: 2022-05-10T06:34:37+08:00
-draft: true
+draft: false
 categories: "blog"
 series: "podcast"
 tags: ["podcast","podcast筆記"]
