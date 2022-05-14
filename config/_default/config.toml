@@ -1,7 +1,8 @@
 baseURL = 'https://atwo.netlify.app'
 languageCode = 'en-us'
 title = '綠色的人'
-# description = "喜歡植物，喜歡樹，喜歡森林與山脈。願意為了環保讓自己累一點。"
+description = "便當、料理、植物"
+summary = "便當、料理、植物"
 theme = "hugo-clarity"
 hasCJKLanguage = true
 figurePositionLabel = "Figure"

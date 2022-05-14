@@ -19,10 +19,8 @@ $relpath . ) -}} {{- $image = absURL $fullpath }} {{- end }}
 <meta property="og:type" content="article" />
 {{- end }}
 <meta name="description" content="{{ $summary }}" />
-<meta
-  name="twitter:card"
-  content="{{ if $s.largeTwitterCard }}summary_large_image{{ else }}summary{{ end }}"
-/>
+
+<meta name="twitter:card" content="{{ $summary}}" />
 <meta name="twitter:creator" content="{{ $s.twitter }}" />
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta property="og:url" content="{{ $permalink }}" />
