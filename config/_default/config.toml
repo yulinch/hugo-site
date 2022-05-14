@@ -1,4 +1,5 @@
-baseURL = 'https://atwo.netlify.app'
+# baseURL = 'https://atwo.netlify.app'
+baseURL = 'https://yulinch.github.io/hugo-public/'
 languageCode = 'en-us'
 title = '綠色的人'
 description = "便當、料理、植物"
@@ -16,8 +17,8 @@ tag = "tags"
 # series = "series"
 
 [sitemap]
-  changefreq = 'weekly'
   filename = 'sitemap.xml'
+  # changefreq = 'weekly'
   # priority = 0.5
 
 [params]
