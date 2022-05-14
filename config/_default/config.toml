@@ -1,5 +1,5 @@
-# baseURL = 'https://atwo.netlify.app'
-baseURL = 'https://yulinch.github.io/hugo-public/'
+baseURL = 'https://atwo.netlify.app'
+# baseURL = 'https://yulinch.github.io/hugo-public/'
 languageCode = 'en-us'
 title = '綠色的人'
 description = "便當、料理、植物"
