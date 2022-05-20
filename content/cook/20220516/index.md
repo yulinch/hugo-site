@@ -5,6 +5,7 @@ summary: "番茄肉醬義大利麵豆與繡球花"
 date: 2022-05-16T20:00:00+08:00
 draft: false
 categories: "cook"
+series: "便當"
 tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220516.jpg"
 usePageBundles: true

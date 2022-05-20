@@ -5,6 +5,7 @@ summary: "清炒麻油雞、龍鬚菜、腐竹炒皇帝豆與常備大蒜油的�
 date: 2022-05-17T20:00:00+08:00
 draft: false
 categories: "cook"
+series: "便當"
 tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220517.jpg"
 usePageBundles: true

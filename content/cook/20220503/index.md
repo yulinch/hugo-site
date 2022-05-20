@@ -4,6 +4,7 @@ description : "2022-05-03 糯米椒炒豆乾、鹽炒櫛瓜丁、煎蛋、貝果
 date: 2022-05-03T20:51:48+08:00
 draft: false
 categories: "cook"
+series: "便當"
 tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220503.jpg"
 usePageBundles: true

@@ -4,6 +4,7 @@ description : "2022-05-09 秋葵里肌肉捲、洋蔥炒蛋、玉米紅蘿蔔炒
 date: 2022-05-09T20:00:00+08:00
 draft: false
 categories: "cook"
+series: "便當"
 tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220509.jpg"
 usePageBundles: true

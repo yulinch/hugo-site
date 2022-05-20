@@ -4,6 +4,7 @@ description : "2022-05-06 烤蔬菜、手作毛豆漢堡排"
 date: 2022-05-06T20:00:00+08:00
 draft: false
 categories: "cook"
+series: "便當"
 tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220506.jpg"
 usePageBundles: true

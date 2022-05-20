@@ -19,7 +19,7 @@ ga_analytics = "G-6RMZJDT6B0"
 # baidu_analytics = "XXXXXXXX"
 
 # limit the number of taxonomies links shown on the sidebar of each page by default.
-numberOfTagsShown = 10 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
+numberOfTagsShown = 3 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
 
 # Whether to default to storing images and other assets in the `static` directory, or use Hugo page bundles.
 # Switch to `true` if you'd like to group assets with the post itself (as a "leaf bundle").
@@ -92,6 +92,9 @@ numberOfRecentPosts = 5
 # Maximum number of featured posts.
 numberOfFeaturedPosts = 5
 
+# Maximum number of related posts.
+# numberOfRelatedPosts = 2
+
 # Date format. Checkout https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference for details.
 # dateFormat = "2006-01-02" # Default to "Jan 2, 2006".
 # customFonts = false # toggle to true if you want to use custom fonts only.
@@ -104,8 +107,8 @@ numberOfFeaturedPosts = 5
 iconsDir = "icons/" # without a leading forward slash
 
 # Show related content at the end of an article based on the 'series' taxonomy. Can be set in post front matter.
-# showRelatedInArticle = false
-# showRelatedInSidebar = false
+showRelatedInArticle = false
+showRelatedInSidebar = false
 
 # website author
 [author]

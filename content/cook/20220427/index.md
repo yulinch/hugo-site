@@ -4,6 +4,7 @@ description : "2022-04-27 馬鈴薯燉肉"
 date: 2022-04-27T20:09:35+08:00
 draft: false
 categories: "cook"
+series: "便當"
 tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220427.jpg"
 usePageBundles: false
