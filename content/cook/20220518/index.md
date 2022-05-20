@@ -10,7 +10,6 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220518.jpg"
 usePageBundles: true
 showReadTime: false
-showRelatedInArticle: true
 ---
 
 洋蔥炒蛋、大黃瓜炒貢丸、鯖魚炒飯、芭樂

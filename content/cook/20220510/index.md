@@ -9,7 +9,6 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220510.jpg"
 usePageBundles: true
 showReadTime: false
-showRelatedInArticle: true
 ---
 
 兩人份便當：香煎雞腿肉佐櫛瓜莎莎醬、甜椒炒菇菇、黑木耳炒土豆麵筋、秋葵豆腐海帶芽湯

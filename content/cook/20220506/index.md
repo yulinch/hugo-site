@@ -9,7 +9,6 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220506.jpg"
 usePageBundles: true
 showReadTime: false
-showRelatedInArticle: true
 ---
 
 手作毛豆漢堡排、烤蔬菜：甜椒、番茄、木耳、櫛瓜、皎白筍

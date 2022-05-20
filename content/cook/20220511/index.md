@@ -9,7 +9,6 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220511.jpg"
 usePageBundles: true
 showReadTime: false
-showRelatedInArticle: true
 ---
 
 香煎豆包、炒莧菜、皮蛋豆腐、美乃滋雞肉

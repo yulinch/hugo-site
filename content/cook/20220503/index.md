@@ -9,7 +9,6 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220503.jpg"
 usePageBundles: true
 showReadTime: false
-showRelatedInArticle: true
 ---
 
 糯米椒炒豆乾、鹽炒櫛瓜丁、煎蛋、貝果

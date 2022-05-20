@@ -9,5 +9,4 @@ series: ""
 tags:
 sitemap_ignore: false
 showReadTime: false
-showRelatedInArticle: true #顯示同series的文章
 ---

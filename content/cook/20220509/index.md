@@ -9,7 +9,6 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220509.jpg"
 usePageBundles: true
 showReadTime: false
-showRelatedInArticle: true
 ---
 
 兩人份便當：秋葵里肌肉捲、洋蔥炒蛋、玉米紅蘿蔔炒櫛瓜丁

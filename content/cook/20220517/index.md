@@ -10,7 +10,6 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220517.jpg"
 usePageBundles: true
 showReadTime: false
-showRelatedInArticle: true
 ---
 
 清炒麻油雞、龍鬚菜、腐竹炒皇帝豆

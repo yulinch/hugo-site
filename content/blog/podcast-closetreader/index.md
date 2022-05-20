@@ -9,7 +9,6 @@ tags: ["podcast"]
 thumbnail: "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/df/15/69/df15690a-db7b-998c-e115-92e1b8e70536/mza_8516517630070981285.jpg/626x0w.webp"
 sitemap_ignore: false
 showReadTime: false
-showRelatedInArticle: true
 ---
 
 ## [Apple podcast《衣櫥裡的讀者》](https://podcasts.apple.com/tw/podcast/%E8%A1%A3%E6%AB%A5%E8%A3%A1%E7%9A%84%E8%AE%80%E8%80%85/id1553436127)

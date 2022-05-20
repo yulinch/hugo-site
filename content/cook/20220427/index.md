@@ -9,7 +9,6 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220427.jpg"
 usePageBundles: false
 showReadTime: false
-showRelatedInArticle: true
 ---
 
 馬鈴薯燉肉

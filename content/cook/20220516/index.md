@@ -10,7 +10,6 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220516.jpg"
 usePageBundles: true
 showReadTime: false
-showRelatedInArticle: true
 ---
 
 番茄肉醬義大利麵，市場買的花。
