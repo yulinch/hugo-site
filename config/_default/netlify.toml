@@ -3,3 +3,4 @@ package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
   baseUrl = "https://atwo.netlify.app/"
+  exclude = [ "./tags/*","/404.html","/404","./categories","./tags"]
