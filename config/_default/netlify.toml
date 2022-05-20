@@ -1,7 +1,7 @@
-[[plugins]]
-package = "@netlify/plugin-sitemap"
+# [[plugins]]
+# package = "@netlify/plugin-sitemap"
 
-  [plugins.inputs]
-  baseUrl = "https://atwo.netlify.app/"
-  buildDir = "public"
-  exclude = [ '../404','/categories','./tags','**/page/*']
+#   [plugins.inputs]
+#   baseUrl = "https://atwo.netlify.app/"
+#   buildDir = "public"
+#   exclude = [ '../404','/categories','./tags','**/page/*']
