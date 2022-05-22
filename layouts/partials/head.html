@@ -12,7 +12,7 @@ $title = default .Title ( T (lower .Title) ) }} {{- else }} {{- $title = .Title
 {{- end }}
 <meta
   name="viewport"
-  content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+  content="width=device-width, initial-scale=1.0"
 />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 {{ if not .Site.IsServer }} {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" .
