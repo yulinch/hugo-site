@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://atwo.netlify.app/sitemap.xml
+Sitemap: http://atwomori.net/sitemap.xml
