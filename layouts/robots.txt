@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://atwomori.net/sitemap.xml
+Sitemap: https://atwomori.net/sitemap.xml
