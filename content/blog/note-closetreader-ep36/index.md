@@ -4,13 +4,13 @@ description : "《衣櫥裡的讀者》Ep36【回答聽眾提問】讀書要做�
 summary: "讀書要做筆記嗎？我為何喜歡閱讀？對我來說，閱讀是一項冒險事業"
 date: 2022-05-25T09:30:00+08:00
 draft: false
+featured: true
 categories: "blog"
 series: "podcast"
 tags: ["podcast","podcast筆記"]
 sitemap_ignore: false
 showReadTime: false
 ---
-
 
 <iframe title="衣櫥裡的讀者ep36" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/tw/podcast/36-%E5%9B%9E%E7%AD%94%E8%81%BD%E7%9C%BE%E6%8F%90%E5%95%8F-%E8%AE%80%E6%9B%B8%E8%A6%81%E5%81%9A%E7%AD%86%E8%A8%98%E5%97%8E-%E6%88%91%E7%82%BA%E4%BD%95%E5%96%9C%E6%AD%A1%E9%96%B1%E8%AE%80-%E5%B0%8D%E6%88%91%E4%BE%86%E8%AA%AA-%E9%96%B1%E8%AE%80%E6%98%AF%E4%B8%80%E9%A0%85%E5%86%92%E9%9A%AA%E4%BA%8B%E6%A5%AD/id1553436127?i=1000541052400"></iframe>
 

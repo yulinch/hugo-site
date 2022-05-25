@@ -9,6 +9,7 @@ figurePositionLabel = "Figure"
 enableRobotsTXT = true
 disableKinds = ["RSS"]
 showRelatedInArticle = true
+defaultContentLanguage = "en"
 
 [Taxonomies]
 category = "categories"
@@ -40,21 +41,7 @@ trace = false
 verbose = false
 workingFolderCurrent = false
 [markup.asciidocExt.attributes]
-[markup.blackFriday]
-angledQuotes = false
-footnoteAnchorPrefix = ''
-footnoteReturnLinkContents = ''
-fractions = true
-hrefTargetBlank = false
-latexDashes = true
-nofollowLinks = false
-noreferrerLinks = false
-plainIDAnchors = true
-skipHTML = false
-smartDashes = true
-smartypants = true
-smartypantsQuotesNBSP = false
-taskLists = true
+
 [markup.goldmark]
 [markup.goldmark.extensions]
 definitionList = true
@@ -73,8 +60,8 @@ block = false
 title = true
 [markup.goldmark.renderer]
 hardWraps = true
-unsafe = false
-xhtml = false
+unsafe = true
+xhtml = true
 [markup.highlight]
 anchorLineNos = false
 codeFences = true

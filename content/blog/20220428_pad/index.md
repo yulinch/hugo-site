@@ -3,6 +3,7 @@ title: "布衛生棉的使用心得"
 description : "使用布衛生棉一年的心得，新手可以怎麼開始。"
 date: 2022-04-29T17:08:21+08:00
 draft: false
+featured: true
 categories: "blog"
 tags: ["環保", "布衛生棉", "衛生棉"]
 slug: "布衛生棉的使用心得"
@@ -15,7 +16,11 @@ showReadTime: false
 用了之後發現，其實與拋棄式的衛生棉使用習慣沒有差很多。不僅一開始最擔心的防水問題完全沒有發生，其他習慣就如往常一樣，更換的頻率也差不多，量多時約二至三小時，量中量少時可以四小時再更換。
 
 ![我的布衛生棉們，原來日用型只有11片XD 另外搭配兩片30公分夜用加長型、五片18公分日常護墊](pad_01.jpg)
-{{< half >}}<img src="pad_02.jpg" alt="左起-夜用型30公分、日用型27公分、日用型24公分、護墊18公分" />{{< /half >}}{{< half >}}<img src="pad_03.jpg" alt="摺起來的樣子" />{{< /half >}}
+
+{{< half >}}
+{{< figure src="pad_02.jpg" title="左起-夜用型30公分、日用型27公分、日用型24公分、護墊18公分" class="half-img" >}}
+{{< figure src="pad_03.jpg" title="摺起來的樣子" class="half-img" >}}
+{{< /half >}}
 
 {{< br >}}{{< br >}}
 ### 優點

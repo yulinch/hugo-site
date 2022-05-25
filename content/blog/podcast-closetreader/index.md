@@ -3,6 +3,7 @@ title: "Podcast推薦《衣櫥裡的讀者》"
 description : "podcast推薦：《衣櫥裡的讀者》知識．文化．音樂．閱讀．讀書．聽書．說書"
 date: 2022-05-04T13:00:00+08:00
 draft: false
+featured: true
 categories: "blog"
 series: "podcast"
 tags: ["podcast"]
