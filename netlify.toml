@@ -3,3 +3,9 @@
   to = "https://www.atwomori.net/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://atwo.netlify.app/*"
+  to = "https://www.atwomori.net/:splat"
+  status = 301
+  force = true
