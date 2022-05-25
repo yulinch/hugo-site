@@ -5,3 +5,8 @@
 #   baseUrl = "https://atwo.netlify.app/"
 #   buildDir = "public"
 #   exclude = [ '../404','/categories','./tags','**/page/*']
+[[redirects]]
+  from = "https://atwo.netlify.app/"
+  to = "https://www.atwomori.net/"
+  status = 301
+  force = true
