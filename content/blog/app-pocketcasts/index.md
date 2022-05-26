@@ -23,8 +23,7 @@ showReadTime: false
 > [綜合比較](#%E7%B6%9C%E5%90%88%E6%AF%94%E8%BC%83) <br/>
 
 
-
-[Pocket Casts官方網站](https://www.pocketcasts.com/)
+{{< link href="https://www.pocketcasts.com/" target="_blank" class="pretty-url" >}}Pocket Casts官方網站{{< /link >}}
 
 
 {{< br >}}
@@ -62,7 +61,7 @@ showReadTime: false
 
 ## 第一個接觸的app：Apple Podcast
 
-[App Store 連結](https://apps.apple.com/tw/app/apple-podcasts/id525463029)
+{{< link href="https://apps.apple.com/tw/app/apple-podcasts/id525463029" target="_blank" class="pretty-url" >}}App Store 連結{{< /link >}}
 
 首先是幾乎所有人的入門選擇：apple podcast。
 
@@ -146,9 +145,9 @@ apple podcast有提供幾種語速，一旦選擇，就會套用到所有播放�
 
 ## 介面單調但功能完整：Overcast
 
-[Overcast官網](https://overcast.fm/)
-\
-[App Store 連結](https://apps.apple.com/tw/app/overcast/id888422857)
+{{< link href="https://overcast.fm/" target="_blank" class="pretty-url" >}}Overcast官網{{< /link >}}
+
+{{< link href="https://apps.apple.com/tw/app/overcast/id888422857" target="_blank" class="pretty-url" >}}App Store 連結{{< /link >}}
 
 {{< br >}}
 
@@ -362,9 +361,9 @@ Spotify在每年年底都會有一年收聽的數據統計，會依據過去一�
 {{< br >}}
 
 ## 穩定使用中，最喜歡的app：Pocket Casts
-[Pocket Casts官網](https://www.pocketcasts.com/)
-\
-[App Store 連結](https://apps.apple.com/tw/app/pocket-casts/id414834813)
+
+{{< link href="https://www.pocketcasts.com/" target="_blank" class="pretty-url" >}}Pocket Casts官網{{< /link >}}
+{{< link href="https://apps.apple.com/tw/app/pocket-casts/id414834813" target="_blank" class="pretty-url" >}}App Store 連結{{< /link >}}
 
 {{< br >}}
 

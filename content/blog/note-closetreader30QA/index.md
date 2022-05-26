@@ -17,8 +17,8 @@ showReadTime: false
 {{< br >}}
 
 
-> 本篇筆記是我以幾近逐字稿的方式整理出該集podcast的內容，採節目主持人第一人稱敘述。
->
+> 本篇筆記是我以幾近逐字稿的方式整理出該集podcast的內容，採節目主持人第一人稱敘述。</br>
+> 同步發表於[minecast筆記平台](https://www.minecast.me/note_content/32310/1710904?id=628ee3ab8787f)</br>
 > 如有任何謬誤歡迎指出。
 
 {{< br >}}
@@ -81,7 +81,7 @@ Mozart: Piano Concerto No. 26 in D major, K. 537. II. Larghetto. Lili Kraus Orch
 
 ### 在茫茫書海中如何選書？會先瀏覽目錄再決定是否閱讀嗎？
 
-我選書標準其實蠻個人的，通常是我心底帶著什麼問題，就會去找尋相關書籍。例如有段時間我對於「時間」很好奇，我就會從不同知識脈絡下手，例如我曾在節目中分享[物理學家如何看待時間](https://podcasts.apple.com/tw/podcast/9-%E7%89%A9%E7%90%86%E5%AD%B8-%E7%89%A9%E7%90%86%E5%AD%B8%E5%AE%B6%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%99%82%E9%96%93-the-order-of-time/id1553436127?i=1000516700843)、[文學家如何看待時間](https://podcasts.apple.com/tw/podcast/10-%E6%96%87%E5%AD%B8-%E5%A6%82%E6%9E%9C%E4%BA%BA%E7%94%9F%E5%BF%85%E9%A0%88%E9%87%8D%E4%BE%86%E7%84%A1%E6%95%B8%E6%AC%A1-einsteins-dreams/id1553436127?i=1000517662037)、[歷史學家或哲學家](https://podcasts.apple.com/tw/podcast/8-%E6%AD%B7%E5%8F%B2%E5%AD%B8-%E6%AD%B7%E5%8F%B2%E5%AD%B8%E5%AE%B6%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%99%82%E9%96%93-measuring-time-making-history/id1553436127?i=1000515739256)又是怎麼看待時間的書。閱讀這些不同背景學者的書，能擴展我的經驗，讓我看到原本看不見的風景，所以我特別喜歡針對一個主題，找不同知識脈絡的書來看。
+我選書標準其實蠻個人的，通常是我心底帶著什麼問題，就會去找尋相關書籍。例如有段時間我對於「時間」很好奇，我就會從不同知識脈絡下手，例如我曾在節目中分享[物理學家如何看待時間](https://podcasts.apple.com/tw/podcast/9-%E7%89%A9%E7%90%86%E5%AD%B8-%E7%89%A9%E7%90%86%E5%AD%B8%E5%AE%B6%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%99%82%E9%96%93-the-order-of-time/id1553436127?i=1000516700843)、[文學家如何看待時間](https://podcasts.apple.com/tw/podcast/10-%E6%96%87%E5%AD%B8-%E5%A6%82%E6%9E%9C%E4%BA%BA%E7%94%9F%E5%BF%85%E9%A0%88%E9%87%8D%E4%BE%86%E7%84%A1%E6%95%B8%E6%AC%A1-einsteins-dreams/id1553436127?i=1000517662037)、[歷史學家](https://podcasts.apple.com/tw/podcast/8-%E6%AD%B7%E5%8F%B2%E5%AD%B8-%E6%AD%B7%E5%8F%B2%E5%AD%B8%E5%AE%B6%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%99%82%E9%96%93-measuring-time-making-history/id1553436127?i=1000515739256)或[哲學家](https://podcasts.apple.com/tw/podcast/1-%E5%93%B2%E5%AD%B8-%E5%93%B2%E5%AD%B8%E5%AE%B6%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%99%82%E9%96%93-a-brief-history-of-the-philosophy-of-time/id1553436127?i=1000509017536)又是怎麼看待時間的書。閱讀這些不同背景學者的書，能擴展我的經驗，讓我看到原本看不見的風景，所以我特別喜歡針對一個主題，找不同知識脈絡的書來看。
 
 我也會參考一些媒體的推薦。我很喜歡《The New Yorker》雜誌，每期都有長篇書評，他不只是單純講書，還會和時事有所關聯。例如去年（2020）時美國COVID-19的疫情特別嚴重，全世界都在封城，失去社交生活讓很多人感到前所未有的孤獨感，那時紐約客便整理了過去幾年出版與孤獨有關的書，比方有從哲學、歷史、社會學、醫學觀點出發探討孤獨的書，而我也真的去找來看，其中幾本甚至進入我podcast的節目中。
 
@@ -199,7 +199,7 @@ Mozart: Piano Concerto No. 26 in D major, K. 537. II. Larghetto. Lili Kraus Orch
 
 Benjimin4936030留言：我本身是一名重症醫療人員，在十多年的工作後，發現生死已不再是心跳停止或大腦凋亡的那一刻，聽完你的孤獨四部曲，也想聽聽你對生死的看法。
 
-謝謝你的留言。我的確對於死亡的課題也很感興趣，因此接下來規劃了六集相關內容。前兩集節目，我會先從[醫學的觀點](https://podcasts.apple.com/tw/podcast/31-%E9%86%AB%E5%AD%B8-%E8%87%A8%E7%B5%82%E7%97%85%E4%BA%BA%E7%9A%84%E9%A1%98%E6%9C%9B-%E5%BE%80%E5%BE%80%E6%98%AF%E5%BE%88%E7%B0%A1%E5%96%AE%E7%9A%84-%E6%AD%BB%E4%BA%A1%E7%9A%84%E8%87%89-how-we-die/id1553436127?i=1000535115526)來看待死亡，接著[從歷史看待死亡](https://podcasts.apple.com/tw/podcast/32-%E6%AD%B7%E5%8F%B2%E5%AD%B8-%E7%A4%BE%E6%9C%83%E6%84%88%E6%96%87%E6%98%8E-%E6%AD%BB%E4%BA%A1%E5%B0%B1%E6%84%88%E9%87%8E%E8%A0%BB-western-attitudes-toward-death/id1553436127?i=1000536004082)，我想探索歷史上不同時期的人，看待死亡是否有不同的態度。接下來我想用哲學角度探討「自殺」的議題，選了兩本書，分別從[正方](https://podcasts.apple.com/tw/podcast/33-%E5%BF%83%E7%90%86%E5%AD%B8-%E4%BA%BA%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E8%87%AA%E6%AE%BA-suicidal-why-we-kill-ourselves/id1553436127?i=1000538157949)與[反方](https://podcasts.apple.com/tw/podcast/%E6%96%B0%E6%9B%B8%E8%99%9F%E5%A4%96-%E6%88%91%E5%80%91%E7%82%BA%E4%BD%95%E7%9B%B8%E4%BF%A1%E4%BA%BA%E6%80%A7%E6%9C%AC%E6%83%A1-%E4%BA%BA%E6%85%88/id1553436127?i=1000538760367)認證自殺是否符合道德。最後，我想與你分享人是如何[被訓練成為一位殺戮者](https://podcasts.apple.com/tw/podcast/34-%E5%BF%83%E7%90%86%E5%AD%B8-%E6%88%B0%E5%A0%B4%E4%B8%8A%E6%AE%BA%E4%BA%BA-%E6%9C%83%E6%9C%89%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7%E5%97%8E-%E8%AB%96%E6%AE%BA%E6%88%AE-on-killing/id1553436127?i=1000539574523)，以及人在陷入[被殺的情境](https://podcasts.apple.com/tw/podcast/35-%E6%96%87%E5%AD%B8-%E9%9B%86%E4%B8%AD%E7%87%9F%E5%80%96%E5%AD%98%E8%80%85-%E7%82%BA%E4%BD%95%E6%9C%83%E6%9C%89%E7%BD%AA%E6%83%A1%E6%84%9F-%E6%BB%85%E9%A0%82%E8%88%87%E7%94%9F%E9%82%84/id1553436127?i=1000540319714)中，會有什麼體會與觀察。可能聽起來會有點沈重，但我希望他能幫助你拆毀一些你原有的觀點，歡迎大家敬請期待。
+謝謝你的留言。我的確對於死亡的課題也很感興趣，因此接下來規劃了六集相關內容。前兩集節目，我會先從[醫學的觀點](https://podcasts.apple.com/tw/podcast/31-%E9%86%AB%E5%AD%B8-%E8%87%A8%E7%B5%82%E7%97%85%E4%BA%BA%E7%9A%84%E9%A1%98%E6%9C%9B-%E5%BE%80%E5%BE%80%E6%98%AF%E5%BE%88%E7%B0%A1%E5%96%AE%E7%9A%84-%E6%AD%BB%E4%BA%A1%E7%9A%84%E8%87%89-how-we-die/id1553436127?i=1000535115526)來看待死亡，接著[從歷史看待死亡](https://podcasts.apple.com/tw/podcast/32-%E6%AD%B7%E5%8F%B2%E5%AD%B8-%E7%A4%BE%E6%9C%83%E6%84%88%E6%96%87%E6%98%8E-%E6%AD%BB%E4%BA%A1%E5%B0%B1%E6%84%88%E9%87%8E%E8%A0%BB-western-attitudes-toward-death/id1553436127?i=1000536004082)，我想探索歷史上不同時期的人，看待死亡是否有不同的態度。接下來我想用哲學角度探討「自殺」的議題，選了兩本書，分別從正方與反方認證[自殺是否符合道德](https://podcasts.apple.com/tw/podcast/33-%E5%BF%83%E7%90%86%E5%AD%B8-%E4%BA%BA%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E8%87%AA%E6%AE%BA-suicidal-why-we-kill-ourselves/id1553436127?i=1000538157949)。最後，我想與你分享人是如何[被訓練成為一位殺戮者](https://podcasts.apple.com/tw/podcast/34-%E5%BF%83%E7%90%86%E5%AD%B8-%E6%88%B0%E5%A0%B4%E4%B8%8A%E6%AE%BA%E4%BA%BA-%E6%9C%83%E6%9C%89%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7%E5%97%8E-%E8%AB%96%E6%AE%BA%E6%88%AE-on-killing/id1553436127?i=1000539574523)，以及人在陷入[被殺的情境](https://podcasts.apple.com/tw/podcast/35-%E6%96%87%E5%AD%B8-%E9%9B%86%E4%B8%AD%E7%87%9F%E5%80%96%E5%AD%98%E8%80%85-%E7%82%BA%E4%BD%95%E6%9C%83%E6%9C%89%E7%BD%AA%E6%83%A1%E6%84%9F-%E6%BB%85%E9%A0%82%E8%88%87%E7%94%9F%E9%82%84/id1553436127?i=1000540319714)中，會有什麼體會與觀察。可能聽起來會有點沈重，但我希望他能幫助你拆毀一些你原有的觀點，歡迎大家敬請期待。
 
 {{< br >}}
 {{< br >}}
@@ -240,10 +240,9 @@ Mozart: Piano Concerto No. 26 in D major, K. 537. II. Larghetto. Lili Kraus Orch
 
 {{< br >}}
 {{< br >}}
-
-[apple podcast收聽連結](https://podcasts.apple.com/tw/podcast/30%E9%9B%86%E5%95%8F%E7%AD%94-%E8%AE%80%E6%9B%B8%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84-%E4%B8%8D%E6%98%AF%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A7%80%E9%BB%9E-%E8%80%8C%E6%98%AF%E6%8B%86%E6%AF%80%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A7%80%E9%BB%9E/id1553436127?i=1000534395427)
-
-Youtube收聽連結
+---
+{{< br >}}
+{{< link href="https://podcasts.apple.com/tw/podcast/30%E9%9B%86%E5%95%8F%E7%AD%94-%E8%AE%80%E6%9B%B8%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84-%E4%B8%8D%E6%98%AF%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A7%80%E9%BB%9E-%E8%80%8C%E6%98%AF%E6%8B%86%E6%AF%80%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A7%80%E9%BB%9E/id1553436127?i=1000534395427" target="_blank" class="pretty-url" >}}apple podcast收聽連結{{< /link >}}
 {{< youtube U8HwRTukDWU >}}
 
 {{< br >}}

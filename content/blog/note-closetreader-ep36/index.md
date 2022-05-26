@@ -17,8 +17,8 @@ showReadTime: false
 {{< br >}}
 
 
-> 本篇筆記是我以幾近逐字稿的方式整理出該集podcast的內容，採節目主持人第一人稱敘述。
->
+> 本篇筆記是我以幾近逐字稿的方式整理出該集podcast的內容，採節目主持人第一人稱敘述。 <br/>
+> 同步發表於[minecast筆記平台](https://www.minecast.me/note_content/32310/2133398?id=628eebc6246f0) <br/>
 > 如有任何謬誤歡迎指出。
 
 {{< br >}}
@@ -206,8 +206,5 @@ Chopin: Ballade No.4, Op.52. Piano: Vadim Chaimovich. Copyright: Public Domain M
 ---
 {{< br >}}
 
-
-[apple podcast收聽連結](https://podcasts.apple.com/tw/podcast/36-%E5%9B%9E%E7%AD%94%E8%81%BD%E7%9C%BE%E6%8F%90%E5%95%8F-%E8%AE%80%E6%9B%B8%E8%A6%81%E5%81%9A%E7%AD%86%E8%A8%98%E5%97%8E-%E6%88%91%E7%82%BA%E4%BD%95%E5%96%9C%E6%AD%A1%E9%96%B1%E8%AE%80-%E5%B0%8D%E6%88%91%E4%BE%86%E8%AA%AA-%E9%96%B1%E8%AE%80%E6%98%AF%E4%B8%80%E9%A0%85%E5%86%92%E9%9A%AA%E4%BA%8B%E6%A5%AD/id1553436127?i=1000541052400)
-
-Youtube收聽連結
+{{< link href="https://podcasts.apple.com/tw/podcast/36-%E5%9B%9E%E7%AD%94%E8%81%BD%E7%9C%BE%E6%8F%90%E5%95%8F-%E8%AE%80%E6%9B%B8%E8%A6%81%E5%81%9A%E7%AD%86%E8%A8%98%E5%97%8E-%E6%88%91%E7%82%BA%E4%BD%95%E5%96%9C%E6%AD%A1%E9%96%B1%E8%AE%80-%E5%B0%8D%E6%88%91%E4%BE%86%E8%AA%AA-%E9%96%B1%E8%AE%80%E6%98%AF%E4%B8%80%E9%A0%85%E5%86%92%E9%9A%AA%E4%BA%8B%E6%A5%AD/id1553436127?i=1000541052400" target="_blank" class="pretty-url" >}}apple podcast收聽連結{{< /link >}}
 {{< youtube Ibruy4bp1xM >}}
