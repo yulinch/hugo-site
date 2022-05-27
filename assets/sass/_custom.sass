@@ -21,7 +21,12 @@ figcaption
 
 // sidebar
 .sidebar
-  font-size: .8rem
+  font-size: .85rem
+  @media screen and (max-width: 556px)
+    font-size: 0.9rem
+  &_inner
+    &::before
+      background: var(--haze)
   h2
     margin-top: 1rem
 
@@ -37,6 +42,7 @@ aside li
     line-height: 1.6
     letter-spacing: .01em
 
+  // 連結
   .pretty-url
     position: relative
     display: block
@@ -74,6 +80,12 @@ aside li
           opacity: 1
           transform: translateY(0px)
           transition: all .3s cubic-bezier(0.62, 0, .9, 0.7)
+  // 日記用的日期
+  .border-item
+    span
+      display: inline-block
+      padding: 0 .3em
+      border: 1px solid var(--text)
 
 .button
   &_translucent
@@ -88,10 +100,6 @@ aside li
     &_tally
       color: $theme
 
-.sidebar
-  &_inner
-    &::before
-      background: var(--haze)
 .footer
   // border-top: 1px solid var(--text)
   &_inner

@@ -3,8 +3,8 @@ title: "我使用過的Podcast App與推薦【Pocket Casts】"
 description : "那些我使用過的podcast apps比較｜app推薦：pocket casts"
 summary: "那些我使用過的podcast apps比較：apple podcast/overcast/spotify |
 app推薦：pocket casts收聽podcast的優質App-Pocket Casts"
-date: 2022-05-25T10:01:20+08:00
-draft: true
+date: 2022-05-28T10:00:00+08:00
+draft: false
 categories: "blog"
 series: "podcast"
 tags: ["podcast"]
