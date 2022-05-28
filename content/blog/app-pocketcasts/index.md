@@ -2,8 +2,8 @@
 title: "我使用過的Podcast App與推薦【Pocket Casts】"
 description : "那些我使用過的podcast apps比較｜app推薦：pocket casts"
 summary: "那些我使用過的podcast apps比較：apple podcast/overcast/spotify |
-app推薦：pocket casts收聽podcast的優質App-Pocket Casts"
-date: 2022-05-28T10:00:00+08:00
+收聽podcast的優質app-Pocket Casts"
+date: 2022-05-28T12:00:00+08:00
 draft: false
 categories: "blog"
 series: "podcast"
@@ -81,7 +81,7 @@ showReadTime: false
          1. 語速調整只有0.5/1/1.25/1.5/2選擇 <br/>
          2. 無法設定開頭或片尾固定跳過時 <br/>
          3. 介面有點混亂 <br/>
-         4. 沒有playlist的介面，可以將單及加入下一個播放貯列，但看不到他們的順
+         4. 沒有playlist的介面。可以將單集加入下一個播放貯列，但看不到他們的順序
       </td>
     </tr>
   </table>
