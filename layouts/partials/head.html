@@ -15,6 +15,20 @@ $title = default .Title ( T (lower .Title) ) }} {{- else }} {{- $title = .Title
   content="width=device-width, initial-scale=1.0"
 />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<!-- {{ if or (ne .Kind "page") (and (eq .Kind "page") (eq .Params.sitemap_ignore true)) }}
+  <meta name="robots" content="noindex, nofollow" />
+{{ end }} -->
+
+<!-- {{ if and (ne .Kind "home") (or (ne .Kind "page") (and (eq .Kind "page") (eq .Params.sitemap_ignore true))) }}
+  <meta name="robots" content="noindex, nofollow" />
+{{ end }} -->
+
+{{ if (eq .Params.sitemap_ignore true) }}
+  <meta name="robots" content="noindex, nofollow" />
+{{ end }}
+
+
 {{ if not .Site.IsServer }} {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" .
 }}{{ end }} {{ end }} {{- if (ne hugo.Environment "development") }} {{-
 partialCached "analytics" . }} {{- end }} {{- partial "opengraph" . }} {{-
