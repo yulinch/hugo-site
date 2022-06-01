@@ -26,3 +26,13 @@
 from = "/*"
 to = "/404/"
 status = 404
+
+[[redirects]]
+  from = "https://www.atwomori.net/cook/20220523/"
+  to = "https://www.atwomori.net/cook/20220523-0527/"
+  status = 301
+
+[[redirects]]
+  from = "https://www.atwomori.net/cook/20220524/"
+  to = "https://www.atwomori.net/cook/20220523-0527/"
+  status = 301
