@@ -7,4 +7,4 @@ showReadTime: false
 showShare: false
 ---
 
-{{< about >}}
+{{< about title="關於我" >}}
