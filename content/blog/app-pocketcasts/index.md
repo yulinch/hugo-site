@@ -5,6 +5,7 @@ summary: "那些我使用過的podcast apps比較：apple podcast/overcast/spoti
 收聽podcast的優質app-Pocket Casts"
 date: 2022-05-28T12:00:00+08:00
 draft: false
+featured: true
 categories: "blog"
 series: "podcast"
 tags: ["podcast"]

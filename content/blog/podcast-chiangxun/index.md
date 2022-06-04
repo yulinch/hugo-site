@@ -8,7 +8,7 @@ featured: true
 categories: "blog"
 series: "podcast"
 tags: ["podcast"]
-thumbnail: "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/df/15/69/df15690a-db7b-998c-e115-92e1b8e70536/mza_8516517630070981285.jpg/626x0w.webp"
+thumbnail: "https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a3/a2/04/a3a20484-9319-9140-b904-6d3f8367e112/mza_16133383419041820020.jpeg/626x0w.webp"
 sitemap_ignore: false
 showReadTime: false
 ---
