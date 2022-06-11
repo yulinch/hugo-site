@@ -6,7 +6,7 @@ date: 2022-06-04T10:00:00+08:00
 draft: false
 categories: "cook"
 series: "便當"
-tags: ["便當", "lunchbox"]
+tags: ["便當", "lunchbox","蔬食"]
 thumbnail: "images/cook/2022/20220530.jpg"
 usePageBundles: true
 showReadTime: false
@@ -45,7 +45,7 @@ showReadTime: false
 
 ---
 
-<div class="border-item"><span>20220524 Tue</span></div>
+<div class="border-item"><span>20220531 Tue</span></div>
 {{< br >}}
 五香鷹嘴豆炒板豆腐、甜椒炒皎白筍、蒜炒莧菜、鳳梨與芭樂
 
