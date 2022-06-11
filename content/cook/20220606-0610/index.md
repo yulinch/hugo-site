@@ -7,7 +7,7 @@ draft: false
 categories: "cook"
 series: "便當"
 tags: ["便當", "lunchbox","蔬食"]
-thumbnail: "images/cook/2022/20220606.jpg"
+thumbnail: "images/cook/2022/20220610.jpg"
 usePageBundles: true
 showReadTime: false
 ---
@@ -34,11 +34,11 @@ showReadTime: false
 
 有意識的不吃牛肉已經兩年了。
 \
-看了很多環境相關的紀錄片，牛隻的溫室氣體排放、碳足跡等都是榜上有名，
+看了很多環境相關的紀錄片，牛隻的溫室氣體排放、碳足跡等都是前段班，
 \
 既然只要少吃就能間接影響環境，當然好。
 \
-日常本來就很少吃，改掉這個習慣並不困難，
+原本日常就很少吃，改掉這個習慣並不困難，
 \
 我可是很願意為了環保讓自己不方便的人呢。
 
