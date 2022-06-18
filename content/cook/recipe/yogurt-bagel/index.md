@@ -2,12 +2,12 @@
 title: "【食譜】優格貝果"
 description : "用優格取代大部分水份"
 summary: "【食譜】優格貝果：用優格取代大部分水份製作而成的貝果"
-date: 2022-06-18T20:00:00+08:00
+date: 2022-06-12T20:00:00+08:00
 draft: false
 categories: "cook"
 # series: "烘焙"
 tags: ["烘焙", "麵包"]
-thumbnail: "images/cook/2022/20220610.jpg"
+thumbnail: "images/cook/recipe/yogurt_bagel.jpg"
 usePageBundles: true
 showReadTime: false
 ---
