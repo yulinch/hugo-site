@@ -10,13 +10,6 @@
   status = 301
   force = true
 
-[[redirects]]
-  from = "https://atwomori.net/*"
-  to = "https://www.atwomori.net/:splat"
-  status = 301
-  force = true
-
-
 # [[redirects]]
 #   from = "https://www.atwomori.net/*"
 #   to = "https://www.atwomori.net/404.html"
