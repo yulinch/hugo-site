@@ -9,7 +9,7 @@ tags:
 sitemap_ignore: true
 ---
 
-[Neat]({{< ref "cook/20220427.md" >}})
+[Neat]({{< ref "cook/diary/20220427.md" >}})
 {{< highlight go >}} A bunch of code here {{< /highlight >}}
 {{< gist spf13 7896402 >}}
 {{< figure src="/img/plant.jpeg" attr="attr" title="title" caption="caption" >}}{{< figure >}}

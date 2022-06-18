@@ -5,6 +5,7 @@ date: 2022-04-29T17:08:21+08:00
 draft: false
 featured: true
 categories: "blog"
+series: "green"
 tags: ["環保", "布衛生棉"]
 slug: "布衛生棉的使用心得"
 showReadTime: false
