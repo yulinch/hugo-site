@@ -24,11 +24,13 @@ status = 404
   from = "https://www.atwomori.net/cook/20220523/"
   to = "https://www.atwomori.net/cook/diary/20220523-0527/"
   status = 301
+  force = true
 
 [[redirects]]
   from = "https://www.atwomori.net/cook/20220524/"
   to = "https://www.atwomori.net/cook/diary/20220523-0527/"
   status = 301
+  force = true
 
 [[redirects]]
 from = "/cook/20220427"
@@ -37,59 +39,74 @@ to = "/cook/diary/20220427"
 [[redirects]]
 from = "/cook/20220428"
 to = "/cook/diary/20220428"
+force = true
 
 [[redirects]]
 from = "/cook/20220503"
 to = "/cook/diary/20220503-0506"
+force = true
 
 [[redirects]]
 from = "/cook/20220504"
 to = "/cook/diary/20220503-0506"
+force = true
 
 [[redirects]]
 from = "/cook/20220505"
 to = "/cook/diary/20220503-0506"
+force = true
 
 [[redirects]]
 from = "/cook/20220506"
 to = "/cook/diary/20220503-0506"
+force = true
 
 [[redirects]]
 from = "/cook/20220509"
 to = "/cook/diary/20220509-0513"
+force = true
 
 [[redirects]]
 from = "/cook/20220510"
 to = "/cook/diary/20220509-0513"
+force = true
 
 [[redirects]]
 from = "/cook/20220511"
 to = "/cook/diary/20220509-0513"
+force = true
 
 [[redirects]]
 from = "/cook/20220512"
 to = "/cook/diary/20220509-0513"
+force = true
 
 [[redirects]]
 from = "/cook/20220513"
 to = "/cook/diary/20220509-0513"
+force = true
 
 [[redirects]]
 from = "/cook/20220516"
 to = "/cook/diary/20220516-0520"
+force = true
 
 [[redirects]]
 from = "/cook/20220517"
 to = "/cook/diary/20220516-0520"
+force = true
 
 [[redirects]]
 from = "/cook/20220518"
 to = "/cook/diary/20220516-0520"
+force = true
 
 [[redirects]]
 from = "/cook/20220519"
 to = "/cook/diary/20220516-0520"
+force = true
 
 [[redirects]]
 from = "/cook/20220520"
 to = "/cook/diary/20220516-0520"
+force = true
