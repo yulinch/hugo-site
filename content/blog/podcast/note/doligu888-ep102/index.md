@@ -1,17 +1,16 @@
 ---
 title: "《我有個朋友會算命》Ep102歹路不能行，邊緣人特殊體驗分享"
 description : "《我有個朋友會算命》Ep102歹路不能行，邊緣人特殊體驗分享"
-summary: "讀書要做筆記嗎？我為何喜歡閱讀？對我來說，閱讀是一項冒險事業"
+summary: "無聊的反義詞不是愉悅，是興奮。因為開心不會解決問題、解決無聊，興奮才是。"
 date: 2022-06-20T11:30:00+08:00
 draft: false
-featured: true
+featured: false
 categories: "blog"
 series: "podcast"
 tags: ["podcast","podcast筆記"]
 thumbnail: "https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/b1/79/6a/b1796a39-416c-1911-aa74-a8a3e65b31e6/mza_12571780935636407474.jpeg/626x0w.webp"
 sitemap_ignore: false
 showReadTime: false
-aliases: ["/blog/note-closetreader-ep36/"]
 ---
 
 <iframe title="《我有個朋友會算命》Ep102歹路不能行，邊緣人特殊體驗分享" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/tw/podcast/ep-102-%E6%AD%B9%E8%B7%AF%E4%B8%8D%E8%83%BD%E8%A1%8C-%E9%82%8A%E7%B7%A3%E4%BA%BA%E7%89%B9%E6%AE%8A%E9%AB%94%E9%A9%97%E5%88%86%E4%BA%AB/id1520009808?i=1000565751176"></iframe>
