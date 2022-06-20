@@ -10,6 +10,7 @@ tags: ["podcast"]
 thumbnail: "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/df/15/69/df15690a-db7b-998c-e115-92e1b8e70536/mza_8516517630070981285.jpg/626x0w.webp"
 sitemap_ignore: false
 showReadTime: false
+aliases: ["/blog/podcast-closetreader/"]
 ---
 
 ## [Apple podcast《衣櫥裡的讀者》](https://podcasts.apple.com/tw/podcast/%E8%A1%A3%E6%AB%A5%E8%A3%A1%E7%9A%84%E8%AE%80%E8%80%85/id1553436127)
@@ -36,7 +37,7 @@ showReadTime: false
 {{< br >}}{{< br >}}
 
 ##### 推薦單集
-  - [30集問答：讀書最重要的，不是建立自己的觀點，而是拆毀自己的觀點]({{< ref "blog/note-closetreader30qa.md" >}})\
+  - [30集問答：讀書最重要的，不是建立自己的觀點，而是拆毀自己的觀點]({{< ref "blog/podcast/note/closetreader30qa.md" >}})\
     除了簡單認識主持人的背景外，從聽眾的問答中，可以體會到閱讀大量書籍的人謙卑、求知若渴的氣質，也破除我對於「閱讀」這件事情必須從中獲得什麼的刻板認識。
 
   - [44.【關於詩】詩能夠阻擋坦克嗎？｜《玫瑰是沒有理由的開放》](https://podcasts.apple.com/tw/podcast/44-%E9%97%9C%E6%96%BC%E8%A9%A9-%E8%A9%A9%E8%83%BD%E5%A4%A0%E9%98%BB%E6%93%8B%E5%9D%A6%E5%85%8B%E5%97%8E-%E7%8E%AB%E7%91%B0%E6%98%AF%E6%B2%92%E6%9C%89%E7%90%86%E7%94%B1%E7%9A%84%E9%96%8B%E6%94%BE/id1553436127?i=1000553106941)\

@@ -9,6 +9,7 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220428.jpg"
 usePageBundles: true
 showReadTime: false
+aliases: ["/cook/20220428/"]
 ---
 
 照燒鯛魚、沙茶糯米椒、乾煎杏鮑菇、馬鈴薯煎餅

@@ -11,6 +11,7 @@ tags: ["book","環保"]
 thumbnail: "https://www.books.com.tw/img/001/079/93/0010799306.jpg"
 sitemap_ignore: false
 showReadTime: false
+aliases: ["/blog/book-the-year-of-less/"]
 ---
 
 {{< half >}}

@@ -2,7 +2,7 @@
 title: "蔬食嘴的養成"
 description : "蔬食嘴的養成"
 summary: "一開始是從牛肉開始，然後是海鮮，若沒有必要我不太會主動買肉了"
-date: 2022-06-30T13:00:00+08:00
+date: 2022-06-11T13:00:00+08:00
 draft: true
 featured: true
 categories: "blog"
@@ -29,12 +29,6 @@ showReadTime: false
 少一張吃牛肉的嘴，一年就能減少360公斤的碳排量（以[一公斤牛肉碳排60公斤](https://cfp-calculate.tw/cfpc/WebPage/WebSites/docx_detail.aspx?qparentid=8e967898-7ec9-48d8-a4fe-6a456f736ef4)來計算）。
 \
 反正日常原本就不常吃牛，再少一點也不會太困難，那就別吃吧。
-
-
-
-
-
-
 
 {{< br >}}
 

@@ -6,7 +6,7 @@ date: 2022-06-12T20:00:00+08:00
 draft: false
 categories: "cook"
 # series: "烘焙"
-tags: ["烘焙", "麵包"]
+tags: ["烘焙", "麵包", "食譜"]
 thumbnail: "images/cook/recipe/yogurt_bagel.jpg"
 usePageBundles: true
 showReadTime: false

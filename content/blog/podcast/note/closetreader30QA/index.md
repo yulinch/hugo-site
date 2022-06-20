@@ -8,8 +8,10 @@ featured: true
 categories: "blog"
 series: "podcast"
 tags: ["podcast","podcast筆記"]
+thumbnail: "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/df/15/69/df15690a-db7b-998c-e115-92e1b8e70536/mza_8516517630070981285.jpg/626x0w.webp"
 sitemap_ignore: false
 showReadTime: false
+aliases: ["/blog/note-closetreader30qa/"]
 ---
 
 <iframe title="衣櫥裡的讀者ep30" allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/tw/podcast/30%E9%9B%86%E5%95%8F%E7%AD%94-%E8%AE%80%E6%9B%B8%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84-%E4%B8%8D%E6%98%AF%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A7%80%E9%BB%9E-%E8%80%8C%E6%98%AF%E6%8B%86%E6%AF%80%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A7%80%E9%BB%9E/id1553436127?i=1000534395427"></iframe>

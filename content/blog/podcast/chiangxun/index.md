@@ -11,6 +11,7 @@ tags: ["podcast"]
 thumbnail: "https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a3/a2/04/a3a20484-9319-9140-b904-6d3f8367e112/mza_16133383419041820020.jpeg/626x0w.webp"
 sitemap_ignore: false
 showReadTime: false
+aliases: ["/blog/podcast-chiangxun/"]
 ---
 
 ## [Apple podcast《蔣勳_美的沉思 回來認識自己》](https://podcasts.apple.com/tw/podcast/%E8%94%A3%E5%8B%B3-%E7%BE%8E%E7%9A%84%E6%B2%89%E6%80%9D-%E5%9B%9E%E4%BE%86%E8%AA%8D%E8%AD%98%E8%87%AA%E5%B7%B1/id1587317578)

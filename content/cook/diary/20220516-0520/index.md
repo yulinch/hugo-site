@@ -10,6 +10,7 @@ tags: ["便當", "lunchbox"]
 thumbnail: "images/cook/2022/20220516.jpg"
 usePageBundles: true
 showReadTime: false
+aliases: ["/cook/20220516/","/cook/20220517/","/cook/20220518/","/cook/20220519/","/cook/20220520/"]
 ---
 
 <div class="border-item"><span>20220516 Mon</span></div>

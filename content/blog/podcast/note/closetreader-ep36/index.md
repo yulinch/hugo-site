@@ -8,8 +8,10 @@ featured: true
 categories: "blog"
 series: "podcast"
 tags: ["podcast","podcast筆記"]
+thumbnail: "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/df/15/69/df15690a-db7b-998c-e115-92e1b8e70536/mza_8516517630070981285.jpg/626x0w.webp"
 sitemap_ignore: false
 showReadTime: false
+aliases: ["/blog/note-closetreader-ep36/"]
 ---
 
 <iframe title="衣櫥裡的讀者ep36" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/tw/podcast/36-%E5%9B%9E%E7%AD%94%E8%81%BD%E7%9C%BE%E6%8F%90%E5%95%8F-%E8%AE%80%E6%9B%B8%E8%A6%81%E5%81%9A%E7%AD%86%E8%A8%98%E5%97%8E-%E6%88%91%E7%82%BA%E4%BD%95%E5%96%9C%E6%AD%A1%E9%96%B1%E8%AE%80-%E5%B0%8D%E6%88%91%E4%BE%86%E8%AA%AA-%E9%96%B1%E8%AE%80%E6%98%AF%E4%B8%80%E9%A0%85%E5%86%92%E9%9A%AA%E4%BA%8B%E6%A5%AD/id1553436127?i=1000541052400"></iframe>
@@ -145,7 +147,7 @@ Chopin: Ballade No.4, Op.52. Piano: Vadim Chaimovich. Copyright: Public Domain M
 
 ### 我為何訓練自己使用電子書？
 
-在這個節目第三十集的時候我曾做過一集[問答]({{< ref "blog/note-closetreader30qa.md" >}})，那個時候我有提到我很習慣讀電子書，因為電子書可以幫助我利用很多零碎的時間，比如通勤搭車的時候，不方便帶著笨重的書，電子書相較之下就比較容易從口袋拿出來看，有一些朋友就問到我是怎麼看待電子書的。
+在這個節目第三十集的時候我曾做過一集[問答]({{< ref "blog/podcast/note/closetreader30qa.md" >}})，那個時候我有提到我很習慣讀電子書，因為電子書可以幫助我利用很多零碎的時間，比如通勤搭車的時候，不方便帶著笨重的書，電子書相較之下就比較容易從口袋拿出來看，有一些朋友就問到我是怎麼看待電子書的。
 
 {{< br >}}
 
@@ -172,7 +174,7 @@ Chopin: Ballade No.4, Op.52. Piano: Vadim Chaimovich. Copyright: Public Domain M
 
 {{< br >}}
 
-如果你聽過之前[三十集問答]({{< ref "blog/note-closetreader30qa.md" >}})的節目的話，你可能會注意到我曾經展開過一個寫信給聽眾的計畫，我開了一個google表單，你只要留下Email，我就會寫一封信給你。很多人以為這是制式的電子報，其實不是，我是真的對每一個留下Email的人都很好奇，我想知道你們是什麼樣的人、閱讀什麼樣的書、聽什麼樣的音樂，所以我是一個一個寫信過去，還真的有一些朋友回信給我，跟我聊天，分享他們最近閱讀的書等等。收到這些回信我都特別開心，因為對我來說，讀書就好像獨自旅行，偶爾你在旅途上碰到同伴分享彼此的見聞，我覺得這是特別溫暖，特別開心的事情。所以我想特別感謝這些曾經留下Email，並在收到我的信之後還回信給我的朋友。可是最近我碰到一個很實際的困難，就是留下Email的人實在太多了，我好像不可能再一個一個寫信，很多人回信給我之後，我也不太可能很即時的回信給你。不過無論如何，還是很期待大家可以留言給我，讀到大家的留言就是我做這個節目最快樂的時刻，每一個留言我都一定會看，而且只要我有空有能力的話，我也還是會回覆給你。
+如果你聽過之前[三十集問答]({{< ref "blog/podcast/note/closetreader30qa.md" >}})的節目的話，你可能會注意到我曾經展開過一個寫信給聽眾的計畫，我開了一個google表單，你只要留下Email，我就會寫一封信給你。很多人以為這是制式的電子報，其實不是，我是真的對每一個留下Email的人都很好奇，我想知道你們是什麼樣的人、閱讀什麼樣的書、聽什麼樣的音樂，所以我是一個一個寫信過去，還真的有一些朋友回信給我，跟我聊天，分享他們最近閱讀的書等等。收到這些回信我都特別開心，因為對我來說，讀書就好像獨自旅行，偶爾你在旅途上碰到同伴分享彼此的見聞，我覺得這是特別溫暖，特別開心的事情。所以我想特別感謝這些曾經留下Email，並在收到我的信之後還回信給我的朋友。可是最近我碰到一個很實際的困難，就是留下Email的人實在太多了，我好像不可能再一個一個寫信，很多人回信給我之後，我也不太可能很即時的回信給你。不過無論如何，還是很期待大家可以留言給我，讀到大家的留言就是我做這個節目最快樂的時刻，每一個留言我都一定會看，而且只要我有空有能力的話，我也還是會回覆給你。
 
 {{< br >}}
 
