@@ -6,7 +6,7 @@ draft: false
 featured: true
 categories: "blog"
 series: "green"
-tags: ["環保", "布衛生棉"]
+tags: ["環保"]
 slug: "布衛生棉的使用心得"
 showReadTime: false
 aliases: ["/blog/布衛生棉的使用心得/"]

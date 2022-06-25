@@ -1,12 +1,12 @@
 ---
-title: "一週便當 | 20220530"
+title: "一週便當 | 20220530：植物與光線"
 description : "20220530的一週便當：剩下一口人的簡單午間食。植物與光線。"
 summary: "20220530的一週便當：剩下一口人的簡單午間食。植物與光線。"
 date: 2022-06-04T10:00:00+08:00
 draft: false
 categories: "cook"
 series: "便當"
-tags: ["便當", "lunchbox","蔬食"]
+tags: ["便當", "lunchbox","蔬食", "花"]
 thumbnail: "images/cook/2022/20220530.jpg"
 usePageBundles: true
 showReadTime: false

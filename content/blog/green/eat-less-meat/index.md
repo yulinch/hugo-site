@@ -2,7 +2,7 @@
 title: "蔬食嘴的養成"
 description : "蔬食嘴的養成"
 summary: "一開始是從牛肉開始，然後是海鮮，若沒有必要我不太會主動買肉了"
-date: 2022-06-11T13:00:00+08:00
+date: 20230-11-11T13:00:00+08:00
 draft: true
 featured: false
 categories: "blog"
