@@ -7,7 +7,7 @@ draft: false
 categories: "cook"
 series: "便當"
 tags: ["便當", "lunchbox"]
-thumbnail: "images/cook/2022/20220704.jpg"
+thumbnail: "images/cook/2022/20220711.jpg"
 usePageBundles: true
 showReadTime: false
 ---
@@ -18,7 +18,7 @@ showReadTime: false
 <div class="border-item"><span>20220710 Sun</span></div>
 {{< br >}}
 
-![全麥優格餐包](20220710_green_onion_pancake_4.jpg)
+全麥優格餐包
 
 {{< half >}}
 {{< figure src="20220710_bread_1.jpg" title="" class="half-img" >}}
@@ -86,6 +86,9 @@ showReadTime: false
 
 ![20220714 薯泥蛋沙拉、和風涼拌秋葵豆腐丁、芭樂](20220715_bento_1.jpg)
 
+開學第一週，精神正在修復中（是多脆弱）。
+
+我想夏天辦公室最大的好處應該就是中央空調了吧。
 {{< br >}}
 {{< br >}}
 
