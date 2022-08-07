@@ -1,13 +1,13 @@
 ---
-title: "一週便當 | 20220825：全麥蔓越莓麵包"
-description : "20220825的一週便當與全麥蔓越莓麵包"
-summary: "20220825的一週便當與全麥蔓越莓麵包"
+title: "一週便當 | 20220801：全麥蔓越莓麵包"
+description : "20220801的一週便當與全麥蔓越莓麵包"
+summary: "20220801的一週便當與全麥蔓越莓麵包"
 date: 2022-08-07T10:00:00+08:00
 draft: false
 categories: "cook"
 series: "便當"
 tags: ["便當", "lunchbox"]
-thumbnail: "images/cook/2022/20220725.jpg"
+thumbnail: "images/cook/2022/20220801.jpg"
 usePageBundles: true
 showReadTime: false
 ---
