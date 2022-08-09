@@ -4,7 +4,7 @@ description : "《療癒廚房3》（一）家的模樣，生活的模樣"
 summary: "（一）家的模樣，生活的模樣"
 date: 2022-07-08T15:30:00+08:00
 draft: false
-featured: false
+featured: true
 categories: "blog"
 series: "book"
 tags: ["book"]
