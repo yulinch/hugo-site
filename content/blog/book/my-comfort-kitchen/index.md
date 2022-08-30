@@ -25,11 +25,13 @@ showReadTime: false
 出版日期：2019/07/04
 
 {{< link href="https://www.books.com.tw/products/0010825354" target="_blank" class="pretty-url" >}}博客來：《療癒廚房3 家的進行式！今天也有心愛的道具與靈魂好食相伴》{{< /link >}}
+{{< link href="../my-comfort-kitchen-2" target="_blank" class="pretty-url" >}}《療癒廚房3》（二）廚房裡，餐桌上{{< /link >}}
+{{< link href="../my-comfort-kitchen-3" target="_blank" class="pretty-url" >}}《療癒廚房3》（三）吃貨的選擇{{< /link >}}
+
 
 ---
 
 {{< br >}}
-
 我很喜歡看家事整理、收納的書。
 
 幾年前崇拜林姓主婦，從她的收納分享中學到了整理物品的基本法則，不斷練習並落實在生活中。最近則是深深受到暴躁兔女王的這三本系列書的吸引。

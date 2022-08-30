@@ -25,10 +25,10 @@ showReadTime: false
 出版日期：2019/07/04
 
 {{< link href="https://www.books.com.tw/products/0010825354" target="_blank" class="pretty-url" >}}博客來：《療癒廚房3 家的進行式！今天也有心愛的道具與靈魂好食相伴》{{< /link >}}
+{{< link href="../my-comfort-kitchen" target="_blank" class="pretty-url" >}}《療癒廚房3》（一）家的模樣，生活的模樣{{< /link >}}
+{{< link href="../my-comfort-kitchen-3" target="_blank" class="pretty-url" >}}《療癒廚房3》（三）吃貨的選擇{{< /link >}}
 
 ---
-
-{{< link href="../my-comfort-kitchen" target="_blank" class="pretty-url" >}}《療癒廚房3》（一）家的模樣，生活的模樣{{< /link >}}
 
 {{< br >}}
 
