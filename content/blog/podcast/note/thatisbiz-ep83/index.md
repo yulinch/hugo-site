@@ -4,7 +4,7 @@ description : "《商業就是這樣》Ep83-環保之外的Patagonia "
 summary: "美國戶外運動品牌 Patagonia 創辦人 Yvon Chouinard 在2022年9月宣布，放棄據《紐約時報》估值高達 30 億美元的公司所有權，他希望將所有企業利潤提供給致力保護自然環境、對抗全球氣候危機的團體，他還強調「地球是我們的唯一股東」。"
 date: 2022-10-24T16:00:00+08:00
 draft: false
-featured: false
+featured: true
 categories: "blog"
 series: "podcast"
 tags: ["podcast","podcast筆記"]
