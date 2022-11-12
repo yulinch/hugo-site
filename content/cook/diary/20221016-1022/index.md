@@ -19,16 +19,16 @@ showReadTime: false
 
 手作優格貝果
 
-![20221016 手作優格貝果](20221016_bagel_04.jpg)
+![20221016 手作優格貝果](20221016_bagle_04.jpg)
 
 {{< half >}}
-{{< figure src="20221016_bagel_01.jpg" title="手作優格貝果-發酵前" class="half-img" >}}
-{{< figure src="20221016_bagel_02.jpg" title="手作優格貝果-經過18小時低溫發酵" class="half-img" >}}
+{{< figure src="20221016_bagle_01.jpg" title="手作優格貝果-發酵前" class="half-img" >}}
+{{< figure src="20221016_bagle_02.jpg" title="手作優格貝果-經過18小時低溫發酵" class="half-img" >}}
 {{< /half >}}
 
 {{< half >}}
-{{< figure src="20221016_bagel_03.jpg" title="手作優格貝果-出爐啦" class="half-img" >}}
-{{< figure src="20221016_bagel_05.jpg" title="手作優格貝果" class="half-img" >}}
+{{< figure src="20221016_bagle_03.jpg" title="手作優格貝果-出爐啦" class="half-img" >}}
+{{< figure src="20221016_bagle_05.jpg" title="手作優格貝果" class="half-img" >}}
 {{< /half >}}
 
 {{< br >}}
