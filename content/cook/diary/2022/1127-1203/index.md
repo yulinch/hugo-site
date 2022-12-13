@@ -87,7 +87,9 @@ showReadTime: false
 
 #### Pocket casts年度收聽數據
 
-[Pocket casts]({{< ref "/blog/app-pocketcasts" >}})今年也推出了年度收聽數據，因為spotify我主要是拿來聽音樂，不太會在上面收聽podcast，之前都只能看spotify年度整理的不真實數據，終於今年有屬於比較真實的收聽足跡了。
+[Pocket casts]({{< ref "/blog/app-pocketcasts" >}})今年也推出了年度收聽數據，我花了超過一個月的時間在聽podcast！
+
+每到年底社群網站總是被spotify的年度數據攻佔版面，但spotify我主要只用藍聽音樂，不太會在上面收聽podcast，因此spotify給我的podcast數據並不真實，終於今年有屬於比較真實的收聽足跡了。
 
 {{< half >}}
 {{< figure src="20221203_diary_01.jpg" title="pocket casts - 年度podcast收聽數據" class="half-img" >}}
@@ -95,6 +97,6 @@ showReadTime: false
 {{< /half >}}
 {{< half >}}
 {{< figure src="20221203_diary_03.jpg" title="pocket casts - 年度podcast收聽數據" class="half-img" >}}
-{{< figure src="" title="" class="half-img" >}}
+{{< figure src="20221203_diary_04.jpg" title="pocket casts - 年度podcast收聽數據 原來我花了超過一個月的時間在聽podcast！" class="half-img" >}}
 {{< /half >}}
 {{< br >}}
