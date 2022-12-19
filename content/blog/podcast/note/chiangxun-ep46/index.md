@@ -16,6 +16,10 @@ showReadTime: false
 <iframe title="《蔣勳_美的沉思 回來認識自己》Ep46 談夢想｜『願』的演出" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/tw/podcast/ep46-%E8%AB%87%E5%A4%A2%E6%83%B3-%E9%A1%98-%E7%9A%84%E6%BC%94%E5%87%BA/id1587317578?i=1000578805768"></iframe>
 
 {{< br >}}
+
+> 本篇筆記是我以幾近逐字稿的方式整理出該集podcast的內容，採節目主持人第一人稱敘述。 <br/>
+> 如有任何謬誤歡迎指出。
+
 {{< br >}}
 
 蔣： 8/27我跟阿佑在屏東圖書館有一場「演唱會」，我覺得很開心，所以今天想先讓阿佑分享。臉書上可能很多朋友也看到，很多人留言給阿佑鼓勵，說你是「新星」 。
