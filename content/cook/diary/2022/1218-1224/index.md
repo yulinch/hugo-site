@@ -89,5 +89,15 @@ showReadTime: false
 這裡有讀書共和國podcast與社長的對談：
 <iframe title="讀書共和國podcast 迪化街之美02｜讀書共和國社長談迪化街與郭怡美書店｜Dihua Street Shops 02" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/迪化街之美02-讀書共和國社長談迪化街與郭怡美書店-dihua-street-shops-02/id1637864506?i=1000586977995"></iframe>
 {{< br >}}
+{{< br >}}
+
+看看社長與書店經理人怎麼說：
+{{< link href="https://www.openbook.org.tw/article/p-67117" target="_blank" class="pretty-url" >}}OPEN BOOK | 話題》我們來開100家書店好不好：訪大稻埕郭怡美書店郭重興與趙偉{{< /link >}}
+
+{{< br >}}
+{{< br >}}
+Facebook臉書專頁：
+{{< link href="https://www.facebook.com/profile.php?id=100087042986727" target="_blank" class="pretty-url" >}}粉絲專頁|郭怡美書店{{< /link >}}
+
 
 ---
