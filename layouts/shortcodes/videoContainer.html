@@ -1,3 +1,3 @@
 <video class="video-container-100" controls>
-  <source src="{{ .Get `src` }}" type="video/mp4" >
+  <source src="{{ .Get `src` }}" title="{{.Get `title`}}" type="{{.Get `type` | default " video/mp4"}}">
 </video>
