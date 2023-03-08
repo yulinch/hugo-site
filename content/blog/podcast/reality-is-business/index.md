@@ -38,9 +38,9 @@ aliases: ["/blog/reality-is-business/"]
 
 {{< br >}}
 
-### 最近看什麼reading my reading
+### 最近看什麼 reading my reading
 
-最近看什麼reading my reading這個小單元，是致昕想要與大家分享自己最近閱讀的內容，原因之一是工作型態的轉變。
+最近看什麼 reading my reading這個小單元，是致昕想要與大家分享自己最近閱讀的內容，原因之一是工作型態的轉變。
 
 新的工作作息比過去更像上班族，每天朝九晚六的迴圈，體驗到身為上班族的無奈與焦慮，下班後腦袋只想放空，長久下來可能只會接收到與工作相關的資訊，為了維持對世界的關心與理解，希望成立一個管道，讓不同領域的人交換彼此日常的視野，藉此雙方都可以暫時活到對方的世界一下下，理解對方看到的東西。
 
@@ -64,12 +64,18 @@ aliases: ["/blog/reality-is-business/"]
     轉型第一集，認識一下這個節目！
     <iframe title="Podcast《不好意思請問一下》〈新一季預告｜新名字新夥伴｜午營咖啡加入〉" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/tw/podcast/%E6%96%B0%E4%B8%80%E5%AD%A3%E9%A0%90%E5%91%8A-%E6%96%B0%E5%90%8D%E5%AD%97%E6%96%B0%E5%A4%A5%E4%BC%B4-%E5%8D%88%E7%87%9F%E5%92%96%E5%95%A1%E5%8A%A0%E5%85%A5/id1574424804?i=1000600466020"></iframe>
 
-  - [最近看什麼02.28.2023](https://podcasts.apple.com/tw/podcast/%E6%9C%80%E8%BF%91%E7%9C%8B%E4%BB%80%E9%BA%BC02-28-2023/id1574424804?i=1000601964420)\
+  - [最近看什麼｜林宅血案報告、林義雄給女兒的一封信](https://podcasts.apple.com/tw/podcast/%E6%9C%80%E8%BF%91%E7%9C%8B%E4%BB%80%E9%BA%BC02-28-2023/id1574424804?i=1000601964420)\
     實驗性單元：reading my reading / 最近看什麼第一集\
     reading A: 林宅血案結案報告 （監察院，02.2023)\
     reading B: 三十多年後，林義雄第一次和女兒談二二八。（林義雄《只有香如故：林義雄家書》,2014）
-    <iframe title="Podcast《不好意思請問一下》〈最近看什麼02.28.2023〉" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/tw/podcast/%E6%9C%80%E8%BF%91%E7%9C%8B%E4%BB%80%E9%BA%BC02-28-2023/id1574424804?i=1000601964420"></iframe>
+    <iframe title="Podcast《不好意思請問一下》〈最近看什麼｜林宅血案報告、林義雄給女兒的一封信〉" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/tw/podcast/%E6%9C%80%E8%BF%91%E7%9C%8B%E4%BB%80%E9%BA%BC02-28-2023/id1574424804?i=1000601964420"></iframe>
 
+  - [最近看什麼｜在萬華資源回收場工作的人們](https://podcasts.apple.com/tw/podcast/%E6%9C%80%E8%BF%91%E7%9C%8B%E4%BB%80%E9%BA%BC-%E5%9C%A8%E8%90%AC%E8%8F%AF%E8%B3%87%E6%BA%90%E5%9B%9E%E6%94%B6%E5%A0%B4%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%BA%BA%E5%80%91/id1574424804?i=1000602836529)\
+    走進萬華最後一座資源回收場，記它的最後一天。\
+    一場展覽、\
+    一個三代經營資源回收場的家族、\
+    以及那 200 多位拾荒與資源回收戶。
+    <iframe title="Podcast《不好意思請問一下》〈最近看什麼｜在萬華資源回收場工作的人們〉" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/tw/podcast/%E6%9C%80%E8%BF%91%E7%9C%8B%E4%BB%80%E9%BA%BC-%E5%9C%A8%E8%90%AC%E8%8F%AF%E8%B3%87%E6%BA%90%E5%9B%9E%E6%94%B6%E5%A0%B4%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%BA%BA%E5%80%91/id1574424804?i=1000602836529"></iframe>
 
 
 #####
