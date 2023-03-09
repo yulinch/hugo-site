@@ -7,7 +7,7 @@ draft: false
 featured: true
 categories: "blog"
 series: "podcast"
-tags: ["podcast","issue", "podcast筆記"]
+tags: ["podcast","thinking", "podcast筆記"]
 # thumbnail: "cover.jpg"
 sitemap_ignore: false
 showReadTime: false
@@ -83,15 +83,6 @@ showReadTime: false
 今年(2023年)是歐盟的[技能年](https://www.europeantimes.news/zh-TW/2023/01/come-fafce-%E5%92%8C-dbi-%E7%99%BC%E8%A1%A8%E4%BA%86%E4%BB%96%E5%80%91%E5%B0%8D-2023-%E5%B9%B4%E6%AD%90%E6%B4%B2%E6%8A%80%E8%83%BD%E5%B9%B4%E7%9A%84%E8%B2%A2%E7%8D%BB/)，歐盟也在聯合國推出[DigitALL](https://digitall.com/)的主題，希望透過創新與科技弭平性別之間不公平的對待，提升對女性教育的投資、技能培訓等，縮小性別的薪資差距。
 
 在疫情影響的過去這三年，女性受到霸凌、暴力對待的情形趨於嚴重，不敢在網路上發聲，或是發言後引來許多不合理的惡意攻擊，使女性在社群上的聲音變得更小。因此希望在婦女節這天，提醒大家無論是線上或線下，都應該要尊重女性。
-
---
-
-當女性步入婚姻，組織家庭，社會框架似乎預設要求女性花更多心力在經營家庭上，當然不可否認生物的天性也有一定程度的影響。一位做人資的朋友觀察，當家庭有事情要處理，無論是男方或女方的家人需要看醫生或是其他，幾乎都是女性要請假處理。
-
-{{< br >}}
-在討論到家事分工的時候，我自己會很介意使用「幫」這個字。
-
-「幫」太太帶小孩、「幫忙」洗碗、「幫忙」晾衣服，有人覺得這是吹毛求疵，可是語言的使用，也表示說話者潛意識對這件事的立場觀點吧，不然為什麼不會說媽媽幫忙接小孩下課呢？
 
 {{< br >}}
 {{< br >}}
