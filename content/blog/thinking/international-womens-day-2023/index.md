@@ -4,7 +4,7 @@ description : "今天是國際婦女節，剛好本週全球串連早安新聞�
 summary: "今天是國際婦女節，剛好本週全球串連早安新聞接連有幾個跟性別薪資比相的新聞討論，做個筆記。"
 date: 2023-03-08T17:00:00+08:00
 draft: false
-featured: true
+featured: false
 categories: "blog"
 series: "podcast"
 tags: ["podcast","thinking", "podcast筆記"]
