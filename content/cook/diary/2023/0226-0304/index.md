@@ -6,7 +6,7 @@ date: 2023-03-06T10:00:00+08:00
 draft: false
 categories: "cook"
 series: "便當"
-tags: ["便當", "lunchbox"]
+tags: ["便當", "lunchbox","蔬食"]
 thumbnail: "images/cook/2023/20230225.jpg"
 usePageBundles: true
 showReadTime: false
