@@ -84,7 +84,7 @@ showReadTime: false
 
 <iframe title="《食農搜查線－上下游》EP66：此刻，全世界最好吃的鳳梨就在你身邊！鳳梨學問大滿貫，一集聽到飽" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/tw/podcast/ep66-%E6%AD%A4%E5%88%BB-%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E5%90%83%E7%9A%84%E9%B3%B3%E6%A2%A8%E5%B0%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E9%82%8A-%E9%B3%B3%E6%A2%A8%E5%AD%B8%E5%95%8F%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E4%B8%80%E9%9B%86%E8%81%BD%E5%88%B0%E9%A3%BD/id1557404661?i=1000609131938"></iframe>
 
-{{< link href="《食農搜查線－上下游》EP66：此刻，全世界最好吃的鳳梨就在你身邊！鳳梨學問大滿貫，一集聽到飽" target="_blank" class="pretty-url" >}}Apple Podcast 收聽連結{{< /link >}}
+{{< link href="https://podcasts.apple.com/tw/podcast/ep66-%E6%AD%A4%E5%88%BB-%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E5%90%83%E7%9A%84%E9%B3%B3%E6%A2%A8%E5%B0%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E9%82%8A-%E9%B3%B3%E6%A2%A8%E5%AD%B8%E5%95%8F%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E4%B8%80%E9%9B%86%E8%81%BD%E5%88%B0%E9%A3%BD/id1557404661?i=1000609131938" target="_blank" class="pretty-url" >}}Apple Podcast 收聽連結{{< /link >}}
 {{< link href="https://pca.st/episode/8373edcc-bfc8-41f5-be5c-05a30d32797a" target="_blank" class="pretty-url" >}}Pocket Casts 收聽連結{{< /link >}}
 
 .
