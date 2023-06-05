@@ -1,20 +1,22 @@
 ---
-title: "一週便當 | 20230528 剩食減少練習"
-description : "20230528的一週便當。上桌料理：南瓜囊煮豆腐、南瓜番茄甜椒咖哩。"
-summary: "20230528的一週便當。上桌料理：南瓜囊煮豆腐、南瓜番茄甜椒咖哩。"
+title: '一週便當 | 20230528 剩食減少練習'
+description: '20230528的一週便當。上桌料理：南瓜囊煮豆腐、南瓜番茄甜椒咖哩。'
+summary: '20230528的一週便當。上桌料理：南瓜囊煮豆腐、南瓜番茄甜椒咖哩。'
 date: 2023-06-05T10:00:00+08:00
 draft: false
-categories: "cook"
-series: "便當"
-tags: ["便當", "lunchbox","蔬食"]
-thumbnail: "images/cook/2023/20230528.jpg"
+categories: 'cook'
+series: '便當'
+tags: ['便當', 'lunchbox', '蔬食', 'podcast']
+thumbnail: 'images/cook/2023/20230528.jpg'
 usePageBundles: true
 showReadTime: false
 ---
 
 {{< br >}}
 {{< br >}}
+
 ### 料理風景
+
 {{< half >}}
 {{< figure src="20230529_diary_01.jpg" title="20230529 南瓜燒豆腐、番茄炒蛋、昆布青椒金針菇、芭樂蓮霧" class="half-img" >}}
 {{< figure src="20230530_diary_01.jpg" title="20230530 糖醋甜椒炒雙菇、芭樂蓮霧" class="half-img" >}}
@@ -35,7 +37,7 @@ showReadTime: false
 \
 口感有點粗糙，一開始可能不太習慣，但久了其實也就成自然了。
 
-營養價值可能看不見，但可見的改變是廚餘量變少了d(`･∀･)b
+營養價值可能看不見，但可見的改變是廚餘量變少了 d(`･∀･)b
 \
 這可是很有感的好處啊！尤其夏天廚餘容易發臭、長蟲，能減少後續處理的垃圾，也是永續的一個小進步吧。
 
@@ -49,7 +51,9 @@ showReadTime: false
 {{< br >}}
 
 ---
+
 {{< br >}}
+
 ### 看一下植物
 
 {{< half >}}
@@ -87,11 +91,12 @@ showReadTime: false
 ---
 
 {{< br >}}
+
 ### 日常整理筆記
 
-podcast的收聽筆記摘要：
+podcast 的收聽筆記摘要：
 
-Steve说314期——心灵复苏2023：重新亲近自我、他人和世界
+Steve 说 314 期——心灵复苏 2023：重新亲近自我、他人和世界
 
 - 這世代共同的悲傷記憶，或許能治癒現代人的孤獨，因為與陌生人有共同的體驗
 - 經歷疫情的悲傷，不得不將自己變得麻木、同情感降低
@@ -103,7 +108,5 @@ Steve说314期——心灵复苏2023：重新亲近自我、他人和世界
 {{< link href="https://podcasts.apple.com/tw/podcast/steve%E8%AF%B4314%E6%9C%9F-%E5%BF%83%E7%81%B5%E5%A4%8D%E8%8B%8F2023-%E9%87%8D%E6%96%B0%E4%BA%B2%E8%BF%91%E8%87%AA%E6%88%91-%E4%BB%96%E4%BA%BA%E5%92%8C%E4%B8%96%E7%95%8C/id1073852728?i=1000601549840" target="_blank" class="pretty-url" >}}Apple Podcast 收聽連結{{< /link >}}
 {{< link href="https://pca.st/episode/adef8880-c0a7-4eed-980e-804078969339" target="_blank" class="pretty-url" >}}Pocket Casts 收聽連結{{< /link >}}
 
-
 {{< br >}}
 {{< br >}}
-
