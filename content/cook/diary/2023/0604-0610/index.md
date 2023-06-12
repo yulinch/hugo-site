@@ -1,5 +1,5 @@
 ---
-title: '一週便當 | 20230604 剩食減少練習'
+title: '一週便當 | 20230604 葉子成長紀錄'
 description: '20230604的一週便當。上桌料理：照燒金針杏鮑菇、竹筍炒豆乾、味噌炒舞菇。'
 summary: '20230604的一週便當。上桌料理：照燒金針杏鮑菇、竹筍炒豆乾、味噌炒舞菇。'
 date: 2023-06-12T15:00:00+08:00
@@ -78,8 +78,8 @@ showReadTime: false
 {{< figure src="20230609_plant_03.jpg" title="2023/06/09" class="half-img" >}}
 {{< /half >}}
 {{< half >}}
+{{< figure src="20230610_plant_01.jpg" title="2023/06/10" class="half-img" >}}
 {{< figure src="20230610_plant_02.jpg" title="2023/06/10" class="half-img" >}}
-{{< figure src="20230610_plant_03.jpg" title="2023/06/10" class="half-img" >}}
 {{< /half >}}
 
 龜背芋母株的兩片新葉子，大片的長比較快，小片的慢一些。
