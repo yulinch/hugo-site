@@ -39,7 +39,8 @@ showReadTime: false
 ### 看一下植物
 
 {{< br >}}
-本週很認真的每天早晨都紀錄一張新葉子的成長變化。
+
+本週很認真的每天早晨都紀錄一張葉子的成長變化。
 
 {{< half >}}
 {{< figure src="20230605_plant_01.jpg" title="2023/06/05" class="half-img" >}}
