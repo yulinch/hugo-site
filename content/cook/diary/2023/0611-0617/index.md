@@ -51,15 +51,15 @@ showReadTime: false
 
 {{< half >}}
 {{< figure src="20230613_diary_02.jpg" title="20230613 荔枝酒" class="half-img" >}}
-{{< figure src="20230615_plant_03.jpg" title="20230613 荔枝酒" class="half-img" >}}
+{{< figure src="20230613_plant_03.jpg" title="20230613 荔枝酒" class="half-img" >}}
 {{< /half >}}
 {{< half >}}
 {{< figure src="20230613_diary_04.jpg" title="20230613 荔枝酒" class="half-img" >}}
-{{< figure src="20230615_plant_05.jpg" title="20230613 荔枝酒" class="half-img" >}}
+{{< figure src="20230613_plant_05.jpg" title="20230613 荔枝酒" class="half-img" >}}
 {{< /half >}}
 {{< half >}}
 {{< figure src="20230613_diary_06.jpg" title="20230613 荔枝酒" class="half-img" >}}
-{{< figure src="20230614_plant_02.jpg" title="20230614 荔枝酒，才靜置一天，冰糖幾乎就全化掉了" class="half-img" >}}
+{{< figure src="20230614_diary_02.jpg" title="20230614 荔枝酒，才靜置一天，冰糖幾乎就全化掉了" class="half-img" >}}
 {{< /half >}}
 
 {{< br >}}
