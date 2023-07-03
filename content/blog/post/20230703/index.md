@@ -29,6 +29,9 @@ showReadTime: false
 
 {{< br >}}
 {{< br >}}
+
+--
+
 {{< br >}}
 {{< br >}}
 
@@ -56,9 +59,7 @@ showReadTime: false
 {{< figure src="20230703_04.jpg" class="half-img" >}}
 {{< /half >}}
 
-{{< half >}}
-{{< figure src="20230703.mov" class="half-img" >}}
-{{< /half >}}
+{{< videoContainer autoplay="false" loop="false"  src="20230703.mov" >}}
 
 {{< br >}}
 {{< br >}}
