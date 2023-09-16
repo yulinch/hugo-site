@@ -26,7 +26,7 @@ showReadTime: false
 
   <table>
     <tr>
-      <th></th><th>五穀粉豆漿鬆餅</th>
+      <th>五穀粉豆漿鬆餅</th><th></th>
     </tr>
     <tr>
       <td>低筋麵粉</td>

@@ -30,7 +30,7 @@ showReadTime: false
 
   <table>
     <tr>
-      <th></th><th>A.中種麵糰</th><th>B.主麵糰</th>
+      <th></th><th>(A)中種麵糰</th><th>(B)主麵糰</th>
     </tr>
     <tr>
       <td>高筋麵粉</td>
@@ -73,7 +73,7 @@ showReadTime: false
 
 做法：
 
-1. 首先混合**A.中種麵糰**材料，揉捏成團後，蓋上濕布，靜置發酵2小時
+1. 首先混合**(A)中種麵糰**材料，揉捏成團後，蓋上濕布，靜置發酵2小時
    {{< half >}}
 {{< figure src="yogurt_bagel_01.jpg" title="" class="half-img" >}}
 {{< figure src="yogurt_bagel_02.jpg" title="" class="half-img" >}}
@@ -83,7 +83,7 @@ showReadTime: false
 {{< figure src="yogurt_bagel_04.jpg" title="" class="half-img" >}}
 {{< /half >}}
 
-2. 加入**B.主麵團**的材料，並且揉至出筋
+2. 加入**(B)主麵團**的材料，並且揉至出筋
 
 3. 分割、滾圓，麵團蓋上濕布，鬆弛20分鐘
 
