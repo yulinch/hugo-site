@@ -2,11 +2,11 @@
 title: "【食譜】紫米饅頭（中種法+電鍋）"
 description : "【食譜】紫米饅頭：用中種法和大同電鍋製作紫米饅頭"
 summary: "【食譜】紫米饅頭：用中種法和大同電鍋製作紫米饅頭"
-date: 2023-09-17T11:00:00+08:00
+date: 2023-09-17T08:30:00+08:00
 draft: false
 categories: "cook"
 # series: "烘焙"
-tags: ["烘焙", "食譜"]
+tags: ["烘焙", "食譜", "蔬食"]
 thumbnail: "images/cook/recipe/purple_rice_steamed_buns.jpg"
 usePageBundles: true
 showReadTime: false
