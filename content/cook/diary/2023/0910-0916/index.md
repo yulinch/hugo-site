@@ -23,7 +23,7 @@ showReadTime: false
 {{< /half >}}
 {{< half >}}
 {{< figure src="20230914_diary_01.jpg" title="20230914 味噌燒豬肉、木耳炒花椰菜、茄子燒豆腐、乾炒菇菇、火龍果" class="half-img" >}}
-{{< figure src="20230908_diary_01.jpg" title="20230915 雙色丼飯、蒜炒花椰菜、椒鹽杏鮑菇、蒸南瓜" class="half-img" >}}
+{{< figure src="20230915_diary_01.jpg" title="20230915 雙色丼飯、蒜炒花椰菜、椒鹽杏鮑菇、蒸南瓜" class="half-img" >}}
 {{< /half >}}
 
 {{< br >}}
