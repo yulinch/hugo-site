@@ -19,7 +19,7 @@ showReadTime: false
 
 {{< half >}}
 {{< figure src="20231127_diary_01.jpg" title="20231127 南瓜燒豆腐、紅豆栗子飯、炒油菜、杏鮑菇炒蛋/早餐：香蔥蒜味肉鬆捲/點心：椰蓉餅乾" class="half-img" >}}
-{{< figure src="20231128_diary_01.jpg" title="茄汁雞肉、炒芥蘭花、南瓜豆腐丸子、蘋果" class="half-img" >}}
+{{< figure src="20231128_diary_01.jpg" title="20231128 茄汁雞肉、炒芥蘭花、南瓜豆腐丸子、蘋果" class="half-img" >}}
 {{< /half >}}
 
 這週的主食加入紅豆和栗子一起煮，濃濃的秋意。
@@ -27,8 +27,8 @@ showReadTime: false
 {{< br >}}
 
 {{< half >}}
-{{< figure src="20231129_diary_01.jpg" title="料比汁多馬鈴薯燉肉、炒油菜、玉米毛豆炒蛋/早餐：草籽粿、菲律賓麵包" class="half-img" >}}
-{{< figure src="20231130_diary_01.jpg" title="南瓜豆腐丸子、白菜滷、豆乾海帶、洛神/早餐：日式紅豆麵包" class="half-img" >}}
+{{< figure src="20231129_diary_01.jpg" title="20231129 料比汁多馬鈴薯燉肉、炒油菜、玉米毛豆炒蛋/早餐：草籽粿、菲律賓麵包" class="half-img" >}}
+{{< figure src="20231130_diary_01.jpg" title="20231130 南瓜豆腐丸子、白菜滷、豆乾海帶、洛神/早餐：日式紅豆麵包" class="half-img" >}}
 {{< /half >}}
 
 馬鈴薯燉肉應該可以排上拿手料理排行榜了，特別適合微涼的天氣。
