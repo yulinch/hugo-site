@@ -1,12 +1,12 @@
 ---
 title: '一週便當 | 20240107 選舉年第一棒'
 description: '20240107的一週便當。上桌料理：香煎海苔豆皮、鹽麴醬燒翅小腿、田樂烤櫛瓜、孜然金針菇。'
-summary: '20240107的一週便當。上桌料理：上桌料理：香煎海苔豆皮、鹽麴醬燒翅小腿、田樂烤櫛瓜、孜然金針菇。'
+summary: '20240107的一週便當。上桌料理：香煎海苔豆皮、鹽麴醬燒翅小腿、田樂烤櫛瓜、孜然金針菇。'
 date: 2024-01-19T10:00:00+08:00
 draft: false
 categories: 'cook'
 series: '便當'
-tags: ['便當', 'lunchbox']
+tags: ['便當', 'lunchbox', 'podcast']
 thumbnail: 'images/cook/2024/20240107.jpg'
 usePageBundles: true
 showReadTime: false

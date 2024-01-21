@@ -4,10 +4,10 @@ enableSearch = false
 # socials
 # twitter = "@janedoe"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "做便當，做家事，聽podcast。喜歡植物，喜歡樹，喜歡森林與山脈。"
+introDescription = "熱愛料理與烘焙，但廚藝不怎麼樣。<br/>圍繞著市場與料理生活的一些筆記。"
 introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
-description = "做便當，做家事，聽podcast。喜歡植物，喜歡樹，喜歡森林與山脈。願意為了環保讓自己累一點。" # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
-summary = "this is summary"
+description = "熱愛料理與烘焙，但廚藝不怎麼樣。<br/>圍繞著市場與料理生活的一些筆記。" # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+summary = "熱愛料理與烘焙，但廚藝不怎麼樣。<br/>圍繞著市場與料理生活的一些筆記。"
 # keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
@@ -110,7 +110,7 @@ showRelatedInSidebar = true
 
 # website author
 [author]
-name = "阿土"
+name = "About Me"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 # [plausible_analytics]
