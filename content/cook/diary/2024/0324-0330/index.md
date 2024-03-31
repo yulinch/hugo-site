@@ -1,7 +1,7 @@
 ---
 title: '一週便當 | 20240324'
-description: '20240324的一週便當。上桌料理：糙米粥、蘿蔔燉肉豆腐、味噌煮鯖魚、海帶蘿蔔湯'
-summary: '20240324的一週便當。上桌料理：糙米粥、蘿蔔燉肉豆腐、味噌煮鯖魚、海帶蘿蔔湯'
+description: '20240324的一週便當。上桌料理：糙米粥、蘿蔔燉肉豆腐、味噌煮鯖魚、海帶蘿蔔湯、馬鈴薯小餐包、烤馬鈴薯薄片。'
+summary: '20240324的一週便當。上桌料理：糙米粥、蘿蔔燉肉豆腐、味噌煮鯖魚、海帶蘿蔔湯、馬鈴薯小餐包、烤馬鈴薯薄片。'
 date: 2024-03-31T20:00:00+08:00
 draft: false
 categories: 'cook'
@@ -45,6 +45,14 @@ showReadTime: false
 {{< half >}}
 {{< figure src="20240327_diary_02.jpg" title="馬鈴薯小餐包" class="half-img" >}}
 {{< figure src="20240327_diary_03.jpg" title="馬鈴薯小餐包" class="half-img" >}}
+{{< /half >}}
+
+{{< br >}}
+
+#### 烤馬鈴薯薄片
+
+{{< half >}}
+{{< figure src="20240330_diary_01.jpg" title="烤馬鈴薯薄片" class="half-img" >}}
 {{< /half >}}
 
 {{< br >}}
