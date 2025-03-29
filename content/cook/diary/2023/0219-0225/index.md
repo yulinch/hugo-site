@@ -23,7 +23,7 @@ showReadTime: false
 {{< figure src="20230219_diary_03.jpg" title="20230219 花生醬豆漿餅乾" class="half-img" >}}
 {{< figure src="20230219_diary_04.jpg" title="20230219 花生醬豆漿餅乾" class="half-img" >}}
 {{< /half >}}
-[上禮拜]({{< ref "/0212-0218" >}})烤第一次，覺得做太少了，這週繼續消耗花生醬。
+[上禮拜]({{< ref "/cook/diary/2023/0212-0218" >}})烤第一次，覺得做太少了，這週繼續消耗花生醬。
 
 {{< half >}}
 {{< figure src="20230220_diary_01.jpg" title="20230220 味噌舞菇義大利麵、香煎櫛瓜、花生豆漿餅乾" class="half-img" >}}

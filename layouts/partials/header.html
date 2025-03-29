@@ -11,7 +11,7 @@
       {{ $context := . }} {{ $menuData := .Site.Data.menu }} {{ with $menuData
       }} {{ partial "nav" (dict "context" $context "menu" $menuData) }} {{- else
       }} {{ partial "nav" (dict "context" . "menu" .Site.Menus.main) }} {{- end
-      }} {{ if .Site.IsMultiLingual }} {{- end }} {{- if $centerLogo }} {{-
+      }} {{ if hugo.IsMultilingual }} {{- end }} {{- if $centerLogo }} {{-
       partial "logo" (dict "logo" $logo "class" "nav_center") }} {{- end }} {{-
       partialCached "follow" . }}
     </div>

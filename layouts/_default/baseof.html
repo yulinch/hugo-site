@@ -39,7 +39,7 @@
     {{- $options := (dict "targetPath" "css/styles.css" "outputStyle"
     "compressed" "enableSourceMap" "true") -}} {{ $mainSassFile :=
     "sass/main.sass" }} {{- $styles := resources.Get $mainSassFile |
-    resources.ExecuteAsTemplate $mainSassFile . | resources.ToCSS $options |
+    resources.ExecuteAsTemplate $mainSassFile . | css.Sass $options |
     resources.Fingerprint "sha512" }}
 
     <!-- scripts definition -->
@@ -100,7 +100,7 @@
     data-lines="{{ $codeLineNumbers }}"
     id="documentTop"
   >
-    {{ if not .Site.IsServer }} {{ if .Site.Params.gtm_id}}<noscript
+    {{ if not hugo.IsServer }} {{ if .Site.Params.gtm_id}}<noscript
       ><iframe
         src="//www.googletagmanager.com/ns.html?id={{ .Site.Params.gtm_id }}"
         height="0"

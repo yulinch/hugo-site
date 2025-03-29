@@ -29,7 +29,7 @@ $title = default .Title ( T (lower .Title) ) }} {{- else }} {{- $title = .Title
 {{ end }}
 
 
-{{ if not .Site.IsServer }} {{ if .Site.Params.gtm_id}} {{- partial "gtm.html" .
+{{ if not hugo.IsServer }} {{ if .Site.Params.gtm_id}} {{- partial "gtm.html" .
 }}{{ end }} {{ end }} {{- if (ne hugo.Environment "development") }} {{-
 partialCached "analytics" . }} {{- end }} {{- partial "opengraph" . }} {{-
 partialCached "favicon" . }}
