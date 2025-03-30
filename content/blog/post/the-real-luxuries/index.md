@@ -1,11 +1,12 @@
 ---
 title: 'The Real Luxuries 真正的奢侈品'
-description: '良好的睡眠、慢慢享受早晨、聆聽鳥鳴、閱讀一本好書'
-summary: '良好的睡眠、慢慢享受早晨、聆聽鳥鳴、閱讀一本好書'
+description: '良好的睡眠、慢慢享受早晨、聆聽鳥鳴、閱讀一本好書。'
+summary: '良好的睡眠、慢慢享受早晨、聆聽鳥鳴、閱讀一本好書。'
 date: 2025-03-29T16:00:00+08:00
 draft: false
 categories: 'blog'
 series: ''
+tags: ['podcast']
 thumbnail: 'images/blog/2025/birds_singing.jpg'
 usePageBundles: true
 showReadTime: false

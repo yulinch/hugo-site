@@ -1,5 +1,2 @@
 User-agent: *
 Sitemap: https://www.atwomori.net/sitemap.xml
-Disallow: /page/
-Disallow: /404.html
-Disallow: /404
