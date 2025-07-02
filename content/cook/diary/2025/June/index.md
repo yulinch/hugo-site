@@ -12,6 +12,18 @@ usePageBundles: true
 showReadTime: false
 ---
 
+> 我總是盡可能從頭開始做每道料理，義大利麵、冰淇淋、蛋糕、沙拉醬，任何可以自己來的就自己動手做，不會買市售的產品。我也會摘院子裡的花，插在我捏的花器裡，盛裝食物的盤子當然也是我的作品，總之，我試著打造一個完全手作的生活環境
+
+![](june_23.jpg)
+
+{{< br >}}
+{{< br >}}
+
+--
+
+{{< br >}}
+{{< br >}}
+
 夏天如果是一個人，大概會被很多人討厭，因為很熱。
 \
 很熱如果是他的缺點，什麼是優點呢？
@@ -60,6 +72,11 @@ showReadTime: false
 {{< br >}}
 {{< br >}}
 
+--
+
+{{< br >}}
+{{< br >}}
+
 <video width="100%" controls>
 <source src="light.mov" type="video/webm">
 </video>
@@ -75,6 +92,25 @@ showReadTime: false
 </video>
 
 太陽經過玻璃的足跡
+
+{{< br >}}
+{{< br >}}
+
+--
+
+{{< br >}}
+{{< br >}}
+
+### 溫柔
+
+![慢慢](june_20.jpg)
+![溫柔](june_21.jpg)
+![溫柔](june_22.jpg)
+
+{{< br >}}
+{{< br >}}
+
+--
 
 {{< br >}}
 {{< br >}}
