@@ -10,10 +10,7 @@ $title = default .Title ( T (lower .Title) ) }} {{- else }} {{- $title = .Title
 {{- with $params.ga_verify }}
 <meta name="google-site-verification" content="{{ . }}" />
 {{- end }}
-<meta
-  name="viewport"
-  content="width=device-width, initial-scale=1.0"
-/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 <!-- {{ if or (ne .Kind "page") (and (eq .Kind "page") (eq .Params.sitemap_ignore true)) }}
@@ -25,7 +22,7 @@ $title = default .Title ( T (lower .Title) ) }} {{- else }} {{- $title = .Title
 {{ end }} -->
 
 {{ if (eq .Params.sitemap_ignore true) }}
-  <meta name="robots" content="noindex, nofollow" />
+<meta name="robots" content="noindex, nofollow" />
 {{ end }}
 
 
@@ -34,9 +31,5 @@ $title = default .Title ( T (lower .Title) ) }} {{- else }} {{- $title = .Title
 partialCached "analytics" . }} {{- end }} {{- partial "opengraph" . }} {{-
 partialCached "favicon" . }}
 <link rel="canonical" href="{{ .Permalink }}" />
-{{ range .AlternativeOutputFormats -}} {{ printf `<link
-  rel="%s"
-  type="%s"
-  href="%s"
-  title="%s"
-/>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}}
+{{ range .AlternativeOutputFormats -}} {{ printf `
+<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}}

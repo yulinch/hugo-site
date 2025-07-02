@@ -4,6 +4,18 @@
   
   
   <url>
+    <loc>http://localhost:1313/cook/diary/2025/june/</loc>
+    <lastmod>2025-07-02T12:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cook/diary/2025/april/</loc>
+    <lastmod>2025-04-25T10:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/cook/diary/2025/20250318/</loc>
     <lastmod>2025-03-30T17:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
